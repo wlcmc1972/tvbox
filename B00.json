@@ -1,6 +1,6 @@
 {
 
-"lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/tv/live0.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "spider":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/custom_spider.jar",
 
     "sites": [
