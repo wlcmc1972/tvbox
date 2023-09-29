@@ -1,0 +1,28 @@
+
+ali.jar	https://gitee.com/lekanbox/App/raw/master/ali.jar
+无跑马灯	https://gitee.com/lekanbox/App/raw/master/YSC.jar
+主jar	https://weixine.net/YSC.jar
+	
+	
+蓝光网	https://gitee.com/wlcmc/tvboxlivesdiy/raw/master/中国蓝光网.json
+	
+农民影视	https://weixine.net/sub/nongmin.json
+4KHDR	https://weixine.net/sub/4KHDR.json
+阿里云盘	https://weixine.net/sub/aliyunpan.json
+玩偶哥哥	https://weixine.net/sub/wanou.json
+布雷蓝光	https://weixine.net/sub/bulei.json
+土拨鼠	https://weixine.net/sub/tuboshu.json
+小站搜索	https://weixine.net/sub/xiaozhan.json
+云盘分享	https://weixine.net/sub/yunpanfenxiang.json
+豆瓣	https://weixine.net/js/douban.js
+爱奇异	https://weixine.net/js/aiqiyi.js
+优酷	https://weixine.net/js/youku.js
+腾讯	https://weixine.net/js/tengxun.js
+芒果	https://weixine.net/js/mangguo.js
+搜狗	https://weixine.net/js/caigou.js
+饭团	https://weixine.net/sub/fantuan.json
+运输车	https://weixine.net/sub/yunyun.json
+云盘网	https://weixine.net/sub/aliyunpan.json
+影探	https://weixine.net/js/yingtan.js
+量子资源	https://weixine.net/sub/liangzi.json
+非凡资源	https://weixine.net/sub/ffzy.json

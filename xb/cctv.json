@@ -1,0 +1,84 @@
+{
+  "cookie": "_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc;buvid3=8E010E8F-AEE6-4C15-95EC-753FE34E1FC613436infoc; CURRENT_BLACKGAP=0; blackside_state=0; i-wanna-go-back=-1; nostalgia_conf=-1; buvid_fp_plain=undefined; DedeUserID=489216151; DedeUserID__ckMd5=b86ca5ee9f1ff6cd; hit-dyn-v2=1; b_ut=5; _uuid=52721BBB-FD29-9145-DF7C-13279ACFB42B69950infoc; LIVE_BUVID=AUTO8016596594537712; is-2022-channel=1; b_nut=100; fingerprint=da9e964eae6568733c552725b330fd49; buvid_fp=2177fb648914596b2ca7ee3ae22c7c4a; CURRENT_FNVAL=4048; rpdid=|(umum|uuJJ~0J'uY~luRR|)k; header_theme_version=CLOSE; home_feed_column=4; buvid4=57B88FC1-B1EE-A217-B81C-E04E720E64D794272-022021109-fkmUUKc/tvPA2qdTyYZrPw==; PVID=1; b_lsid=B5BD4B78_18717EE5CC9; bsource=search_baidu; SESSDATA=51ec7806,1695285712,521ad*32; bili_jct=f350f030787e6a549bc47e890ce46ebb; innersign=1; sid=8awpgvbu; bp_video_offset_489216151=776905467492302800",
+  "classes": [
+    {
+      "type_name": "综合",
+      "type_id": "CCTV1综合频道合集"
+    },
+    {
+      "type_name": "财经",
+      "type_id": "CCTV2财经频道合集"
+    },
+    {
+      "type_name": "综艺",
+      "type_id": "CCTV3综艺频道合集"
+     },
+    {
+      "type_name": "中文国际",
+      "type_id": "CCTV4中文国际频道合集"
+     },
+    {
+      "type_name": "体育",
+      "type_id": "CCTV5体育频道合集"
+    },
+    {
+      "type_name": "体育赛事",
+      "type_id": "CCTV5+体育赛事频道合集"
+    },
+    {
+      "type_name": "音乐",
+      "type_id": "cctv15音乐频道集合"
+    },
+    {
+      "type_name": "电影",
+      "type_id": "CCTV6电影频道合集"
+    },
+    {
+      "type_name": "国防军事",
+      "type_id": "CCTV7国防军事频道合集"
+    },
+    {
+      "type_name": "电视剧",
+      "type_id": "CCTV8电视剧频道合集"
+    },
+    {
+      "type_name": "纪录",
+      "type_id": "CCTV9纪录频道合集"
+    },
+    {
+      "type_name": "科教",
+      "type_id": "CCTV10科教频道合集"
+    },
+    {
+      "type_name": "戏曲",
+      "type_id": "CCTV11戏曲频道合集"
+    },
+    {
+      "type_name": "社会与法",
+      "type_id": "CCTV12社会与法频道合集"
+    },
+    {
+      "type_name": "新闻",
+      "type_id": "CCTV13新闻频道合集"
+    },
+    {
+      "type_name": "少儿",
+      "type_id": "CCTV14少儿频道合集"
+    },
+    {
+      "type_name": "音乐",
+      "type_id": "CCTV15音乐频道合集"
+    },
+    {
+      "type_name": "奥林匹克",
+      "type_id": "CCTV16奥林匹克频道合集"
+    },
+
+    {
+      "type_name": "农业农村",
+      "type_id": "CCTV17农业农村频道合集"
+    }
+  ],
+  "filter": {
+  }
+}
