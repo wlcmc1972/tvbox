@@ -913,7 +913,7 @@
       {
         "id": 21,
         "name": "自用源",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.txt",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.txt",
         "type": "remote",
         "epg": "https://epg.112114.eu.org/",
         "isActive": true
