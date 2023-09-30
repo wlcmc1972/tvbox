@@ -195,16 +195,16 @@ CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 凤凰资讯,http://lcx-olt.8866.org:8181/tsfile/live/1069_1.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 
-星河卫视,http://r.jdshipin.com/sXuuD
-明珠台,http://r.jdshipin.com/ZQ4kN
-翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/n90gt#http://r.jdshipin.com/62WM7
-翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
-香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://r.jdshipin.com/cCCzW
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台,http://r.jdshipin.com/62WM7
+J2,http://r.jdshipin.com/Nr5jq
+ViuTV,http://r.jdshipin.com/vSJvl
+香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
+東森財經新聞,https://fsv4.yj011.net/sat/tv571.flv
+无线财经·资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30022
 
 
 美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
@@ -227,6 +227,9 @@ NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
+CGTN新闻,http://lcx-olt.8866.org:8181/tsfile/live/1067_1.m3u8
+CGTN纪实,http://lcx-olt.8866.org:8181/tsfile/live/1068_1.m3u8
 
 
 
@@ -295,58 +298,39 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 
 
 
-1905电影,http://zgntv.icu/live/1905.php?id=1905dy
-黑莓电影,http://39.134.65.164/PLTV/88888888/224/3221225681/1.m3u8
-黑莓电影,http://39.134.65.173/PLTV/88888888/224/3221225681/1.m3u8
-黑莓电影,http://39.134.65.175/PLTV/88888888/224/3221225681/1.m3u8
-黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8
+1905电影,http://zgntv.icu/live/1905.php?id=1905dy#http://angtv.cn/test/1905.php
 
-斗鱼4K电影,http://maomao.kandiantv.cn/douyu1.php?id=9249162#http://159.75.85.63:35455/douyu/9249162#http://epg.112114.xyz/douyu/9249162
-女神金,http://maomao.kandiantv.cn/douyu1.php?id=747764#http://epg.112114.xyz/douyu/747764
-贝爷①❶厅,http://maomao.kandiantv.cn/douyu1.php?id=252802#http://epg.112114.xyz/douyu/252802
-贝爷②❷厅,http://maomao.kandiantv.cn/douyu1.php?id=4332#http://epg.112114.xyz/douyu/4332
-贝爷③❸厅,http://maomao.kandiantv.cn/douyu1.php?id=36337#http://epg.112114.xyz/douyu/36337
-吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457#http://epg.112114.xyz/douyu/315457
-华语影院2,http://maomao.kandiantv.cn/douyu1.php?id=434971#http://epg.112114.xyz/douyu/434971
-特辑影院,http://maomao.kandiantv.cn/douyu1.php?id=3637778#http://epg.112114.xyz/douyu/3637778
-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519http://epg.112114.xyz/douyu/4246519
-惊悚电影,http://maomao.kandiantv.cn/douyu1.php?id=96577#http://epg.112114.xyz/douyu/96577
-变种人电影,http://maomao.kandiantv.cn/douyu1.php?id=9651304#http://epg.112114.xyz/douyu/9651304
-欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084#http://epg.112114.xyz/douyu/2793084
-恐怖电影1,http://maomao.kandiantv.cn/douyu1.php?id=310926#http://epg.112114.xyz/douyu/310926
-豆瓣电影,http://maomao.kandiantv.cn/douyu1.php?id=8770422#http://epg.112114.xyz/douyu/8770422
-可乐电影,http://maomao.kandiantv.cn/douyu1.php?id=20415#http://epg.112114.xyz/douyu/20415
-宇哥电影,http://maomao.kandiantv.cn/douyu1.php?id=413573#http://epg.112114.xyz/douyu/413573
-小宇电影,http://maomao.kandiantv.cn/douyu1.php?id=323876#http://epg.112114.xyz/douyu/323876
-霍格影片,http://maomao.kandiantv.cn/douyu1.php?id=8814650#http://epg.112114.xyz/douyu/8814650
-国产影片,http://maomao.kandiantv.cn/douyu1.php?id=5423#http://epg.112114.xyz/douyu/5423
-译制影片,http://maomao.kandiantv.cn/douyu1.php?id=2436390#http://epg.112114.xyz/douyu/2436390
-神乐影片1,http://maomao.kandiantv.cn/douyu1.php?id=122402#http://epg.112114.xyz/douyu/122402
-神乐影片2,http://maomao.kandiantv.cn/douyu1.php?id=85894#http://epg.112114.xyz/douyu/85894
-经典恐怖,http://maomao.kandiantv.cn/douyu1.php?id=1165374#http://epg.112114.xyz/douyu/1165374
-经典神剧,http://maomao.kandiantv.cn/douyu1.php?id=3700024#http://epg.112114.xyz/douyu/3700024
-菜园小饼,http://maomao.kandiantv.cn/douyu1.php?id=7701735#http://epg.112114.xyz/douyu/7701735
-军旅动作,http://maomao.kandiantv.cn/douyu1.php?id=431460#http://epg.112114.xyz/douyu/431460
-救救小鸭吧,http://maomao.kandiantv.cn/douyu1.php?id=7925840#http://epg.112114.xyz/douyu/7925840
-亲奶瓶,http://maomao.kandiantv.cn/douyu1.php?id=6546908#http://epg.112114.xyz/douyu/6546908
-爱情公寓,http://maomao.kandiantv.cn/douyu1.php?id=6863367#http://epg.112114.xyz/douyu/6863367
-港剧直播,http://maomao.kandiantv.cn/douyu1.php?id=4549169#http://epg.112114.xyz/douyu/4549169
-破案-推理-悬疑,http://maomao.kandiantv.cn/douyu1.php?id=6091425#http://epg.112114.xyz/douyu/6091425
-粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=1226741#http://epg.112114.xyz/douyu/1226741
-港电影院,http://maomao.kandiantv.cn/douyu1.php?id=8926611#http://epg.112114.xyz/douyu/9826611
-瑶瑶,http://maomao.kandiantv.cn/douyu1.php?id=2935323#http://epg.112114.xyz/douyu/2935323
-蒲蚂蚱,http://maomao.kandiantv.cn/douyu1.php?id=6079455#http://epg.112114.xyz/douyu/6079455
-冰冰,http://maomao.kandiantv.cn/douyu1.php?id=74374#http://epg.112114.xyz/douyu/74374
-小鸽陪看,http://maomao.kandiantv.cn/douyu1.php?id=3928#http://epg.112114.xyz/douyu/3928
-Liz陪看,http://maomao.kandiantv.cn/douyu1.php?id=7254536#http://epg.112114.xyz/douyu/7254536
-清晰林正英,http://maomao.kandiantv.cn/douyu1.php?id=7356023#http://epg.112114.xyz/douyu/7356023
-鱼小丸梓,http://maomao.kandiantv.cn/douyu1.php?id=6140589#http://epg.112114.xyz/douyu/6140589
-邦德,http://maomao.kandiantv.cn/douyu1.php?id=9292499#http://epg.112114.xyz/douyu/9292499
-网神影厅,http://maomao.kandiantv.cn/douyu1.php?id=508118#http://epg.112114.xyz/douyu/508118
-339影院,http://maomao.kandiantv.cn/douyu1.php?id=1274132#http://epg.112114.xyz/douyu/1274132
-吃奶滴虫,http://maomao.kandiantv.cn/douyu1.php?id=263824#http://epg.112114.xyz/douyu/263824
-刘德华,http://maomao.kandiantv.cn/douyu1.php?id=2516864#http://epg.112114.xyz/douyu/2516864
-林正英,http://maomao.kandiantv.cn/douyu1.php?id=218859#http://epg.112114.xyz/douyu/218859
+【4K HDR】Dolby Atmos,http://159.75.85.63:35455/douyu/9249162$4K#http://zzy789.xyz/douyu1.php?id=9249162$1080P
+【女神金60帧】60帧 极致蓝光 刀刀陪看,http://159.75.85.63:35455/douyu/747764#http://zzy789.xyz/douyu1.php?id=747764
+【豆瓣60帧】60帧豆瓣高分电影,http://159.75.85.63:35455/douyu/52787#http://zzy789.xyz/douyu1.php?id=52787
+【小宇60帧】科幻 动作 喜剧 电影,http://159.75.85.63:35455/douyu/323876#http://zzy789.xyz/douyu1.php?id=323876
+【贝爷MAX厅】科幻 动作 经典 喜剧,http://159.75.85.63:35455/douyu/4332#http://zzy789.xyz/douyu1.php?id=4332
+【贝爷①厅】经典 科幻 动作 灾难 巨兽,http://159.75.85.63:35455/douyu/252802#http://zzy789.xyz/douyu1.php?id=252802
+【贝爷②厅】欧美 日韩 国产 2号,http://159.75.85.63:35455/douyu/36337#http://zzy789.xyz/douyu1.php?id=36337
+【华语房】神乐?华语 经典 电影 沈腾 周星驰,http://159.75.85.63:35455/douyu/85894#http://zzy789.xyz/douyu1.php?id=85894
+【星爷房】周星驰?星爷 华语 经典 电影 神乐,http://159.75.85.63:35455/douyu/122402#http://zzy789.xyz/douyu1.php?id=122402
+【粤语房】粤语电影?周星驰 林正英 经典喜剧 白话,http://159.75.85.63:35455/douyu/6566671#http://zzy789.xyz/douyu1.php?id=6566671
+【欧美房】可乐??电影 欧美 科幻 经典,http://159.75.85.63:35455/douyu/20415#http://zzy789.xyz/douyu1.php?id=20415
+【漫威】漫威主线剧情 最佳观影顺序,http://159.75.85.63:35455/douyu/6140589#http://zzy789.xyz/douyu1.php?id=6140589
+【变种人】除掉任何阻碍我们的人,http://159.75.85.63:35455/douyu/9651304#http://zzy789.xyz/douyu1.php?id=9651304
+【Liz陪看】科幻 喜剧 动作,http://159.75.85.63:35455/douyu/7254536#http://zzy789.xyz/douyu1.php?id=7254536
+【小鸽陪看】华语热门影视剧,http://159.75.85.63:35455/douyu/3928#http://zzy789.xyz/douyu1.php?id=3928
+【恐怖】经典 恐怖 鬼怪 剧场,http://159.75.85.63:35455/douyu/1165374#http://zzy789.xyz/douyu1.php?id=1165374
+【宇哥】总有你没看过的经典,http://159.75.85.63:35455/douyu/413573#http://zzy789.xyz/douyu1.php?id=413573
+【贝贝】军旅 喜剧 动作 意大利炮,http://159.75.85.63:35455/douyu/431460#http://zzy789.xyz/douyu1.php?id=431460
+【刘德华】庆祝华仔出道40周年,http://159.75.85.63:35455/douyu/2516864#http://zzy789.xyz/douyu1.php?id=2516864
+【粤语电影】吴孟达 达叔 周星驰 经典,http://159.75.85.63:35455/douyu/1226741#http://zzy789.xyz/douyu1.php?id=1226741
+【冰冰HD】冰冰??恐怖/经典/搞笑陪你一起,http://159.75.85.63:35455/douyu/74374#http://zzy789.xyz/douyu1.php?id=74374
+【HD】很高兴认识你,http://159.75.85.63:35455/douyu/7305938#http://zzy789.xyz/douyu1.php?id=7305938
+【HD】小饼??一个神秘的电影直播间,http://159.75.85.63:35455/douyu/1735337#http://zzy789.xyz/douyu1.php?id=1735337
+【HD】译制国语影片荟萃,http://159.75.85.63:35455/douyu/2436390#http://zzy789.xyz/douyu1.php?id=2436390
+【恐怖电影】 林正英 僵尸 鬼片 经典,http://159.75.85.63:35455/douyu/9275635#http://zzy789.xyz/douyu1.php?id=9275635
+【林正英HD】僵尸 女鬼 弹幕 护体,http://159.75.85.63:35455/douyu/218859#http://zzy789.xyz/douyu1.php?id=218859
+「720P」小U??丧尸 鬼片 恐怖 惊悚 电影,http://159.75.85.63:35455/douyu/96577#http://zzy789.xyz/douyu1.php?id=96577
+【动漫HD】动漫?热血木叶忍者草帽路飞青春,http://159.75.85.63:35455/douyu/206858#http://zzy789.xyz/douyu1.php?id=206858
+【吃米滴虫720P】喜剧、黑帮、动作、武侠、经典,http://159.75.85.63:35455/douyu/315457#http://zzy789.xyz/douyu1.php?id=315457
+【话事人720P】粤语【周星驰】【林正英】,http://159.75.85.63:35455/douyu/5033502#http://zzy789.xyz/douyu1.php?id=5033502
+【HD】奶虫??恐怖 丧尸 鬼片 灾难科幻,http://159.75.85.63:35455/douyu/263824#http://zzy789.xyz/douyu1.php?id=263824
 
 
 
@@ -417,6 +401,14 @@ IHOT,#genre#
 
 音乐,#genre#
 
+华语点歌台,http://159.75.85.63:35455/douyu/3186217#http://zzy789.xyz/douyu1.php?id=3186217
+音乐女团,http://159.75.85.63:35455/douyu/3870925#http://zzy789.xyz/douyu1.php?id=3870925
+音乐台,http://159.75.85.63:35455/douyu/329667#http://zzy789.xyz/douyu1.php?id=329667
+音乐台D❶,http://159.75.85.63:35455/douyu/40471$4K#http://maomao.kandiantv.cn/douyu1.php?id=40471$1080P
+音乐台D❷,http://159.75.85.63:35455/douyu/113158#http://maomao.kandiantv.cn/douyu1.php?id=113158
+音乐台D❸,http://159.75.85.63:35455/douyu/8189873#http://maomao.kandiantv.cn/douyu1.php?id=8189873
+周杰伦,http://159.75.85.63:35455/douyu/7537296#http://zzy789.xyz/douyu1.php?id=7537296
+
 音乐石榴,http://mmitv.top/pltv/huya.php?id=17091681
 阿兰民歌,http://mmitv.top/pltv/huya.php?id=22970983
 精彩现场,http://mmitv.top/pltv/huya.php?id=21241817
@@ -424,33 +416,27 @@ IHOT,#genre#
 华语翻唱,http://mmitv.top/pltv/huya.php?id=21241810
 动听音乐,http://mmitv.top/pltv/huya.php?id=19439762
 催眠音乐,http://mmitv.top/pltv/huya.php?id=21241811
-华语点歌台,http://maomao.kandiantv.cn/douyu1.php?id=3186217#http://epg.112114.xyz/douyu/3186217
-周杰伦,http://maomao.kandiantv.cn/douyu1.php?id=7537296#http://epg.112114.xyz/douyu/7537296
 
-秋月剪水,http://maomao.kandiantv.cn/douyu1.php?id=9588891#http://epg.112114.xyz/douyu/9588891
-飞鸟乐团,http://maomao.kandiantv.cn/douyu1.php?id=9848602#http://epg.112114.xyz/douyu/9848602
-音乐女团,http://maomao.kandiantv.cn/douyu1.php?id=3870925#http://epg.112114.xyz/douyu/3870925
-kpop音乐,http://maomao.kandiantv.cn/douyu1.php?id=329667#http://epg.112114.xyz/douyu/329667
-云淡峰轻,http://maomao.kandiantv.cn/douyu1.php?id=6069488#http://epg.112114.xyz/douyu/6069488
-音乐猛抬头,http://maomao.kandiantv.cn/douyu1.php?id=8666105#http://epg.112114.xyz/douyu/8666105
-朴素妍斗鱼,http://maomao.kandiantv.cn/douyu1.php?id=603070#http://epg.112114.xyz/douyu/603070
-中午怪蜀黍,http://maomao.kandiantv.cn/douyu1.php?id=427397?音乐#http://epg.112114.xyz/douyu/427397?音乐
-天籁音乐,http://maomao.kandiantv.cn/douyu1.php?id=9548612#http://epg.112114.xyz/douyu/9548612
-Wu哥音乐,http://maomao.kandiantv.cn/douyu1.php?id=8667755#http://epg.112114.xyz/douyu/8667755
-黑糖音乐秀,http://maomao.kandiantv.cn/douyu1.php?id=9560563#http://epg.112114.xyz/douyu/9560563
-娱乐扒叔,http://maomao.kandiantv.cn/douyu1.php?id=9624581#http://epg.112114.xyz/douyu/9624581
-Music郑在看,http://maomao.kandiantv.cn/douyu1.php?id=8666143#http://epg.112114.xyz/douyu/8666143
-Fans小琼,http://maomao.kandiantv.cn/douyu1.php?id=8666210#http://epg.112114.xyz/douyu/8666210
-7师傅4K,http://maomao.kandiantv.cn/douyu1.php?id=17732#http://epg.112114.xyz/douyu/17732
-喵喵音乐台,http://maomao.kandiantv.cn/douyu1.php?id=9568091#http://epg.112114.xyz/douyu/9568091
-蚕豆电台,http://maomao.kandiantv.cn/douyu1.php?id=8768792#http://epg.112114.xyz/douyu/8768792
-音乐快斗,http://maomao.kandiantv.cn/douyu1.php?id=8324627#http://epg.112114.xyz/douyu/8324627
-粤语歌姬,http://maomao.kandiantv.cn/douyu1.php?id=4728410#http://epg.112114.xyz/douyu/4728410
-Rabbit每日爆料,http://maomao.kandiantv.cn/douyu1.php?id=9685652#http://epg.112114.xyz/douyu/9685652
-音乐速递,http://maomao.kandiantv.cn/douyu1.php?id=4846936#http://epg.112114.xyz/douyu/4846936
-
-台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
-大立k歌,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+秋月剪水,http://159.75.85.63:35455/douyu/9588891#http://zzy789.xyz/douyu1.php?id=9588891
+飞鸟乐团,http://159.75.85.63:35455/douyu/9848602#http://zzy789.xyz/douyu1.php?id=9848602
+kpop音乐,http://159.75.85.63:35455/douyu/329667#http://zzy789.xyz/douyu1.php?id=329667
+云淡峰轻,http://159.75.85.63:35455/douyu/6069488#http://zzy789.xyz/douyu1.php?id=6069488
+音乐猛抬头,http://159.75.85.63:35455/douyu/8666105#http://zzy789.xyz/douyu1.php?id=8666105
+Wu哥音乐,http://159.75.85.63:35455/douyu/8667755#http://zzy789.xyz/douyu1.php?id=8667755
+黑糖音乐秀,http://159.75.85.63:35455/douyu/9560563#http://zzy789.xyz/douyu1.php?id=9560563
+娱乐扒叔,http://159.75.85.63:35455/douyu/9624581#http://zzy789.xyz/douyu1.php?id=9624581
+Music郑在看,http://159.75.85.63:35455/douyu/8666143#http://zzy789.xyz/douyu1.php?id=8666143
+Fans小琼,http://159.75.85.63:35455/douyu/8666210#http://zzy789.xyz/douyu1.php?id=8666210
+7师傅4K,http://159.75.85.63:35455/douyu/17732#http://zzy789.xyz/douyu1.php?id=17732
+喵喵音乐台,http://159.75.85.63:35455/douyu/9568091#http://zzy789.xyz/douyu1.php?id=9568091
+中午怪蜀黍,http://159.75.85.63:35455/douyu/427397#http://zzy789.xyz/douyu1.php?id=427397
+蚕豆电台,http://159.75.85.63:35455/douyu/8768792#http://zzy789.xyz/douyu1.php?id=8768792
+音乐快斗,http://159.75.85.63:35455/douyu/8324627#http://zzy789.xyz/douyu1.php?id=8324627
+粤语歌姬,http://159.75.85.63:35455/douyu/4728410#http://zzy789.xyz/douyu1.php?id=4728410
+Rabbit每日爆料,http://159.75.85.63:35455/douyu/9685652#http://zzy789.xyz/douyu1.php?id=9685652
+天籁音乐,http://159.75.85.63:35455/douyu/9548612#http://zzy789.xyz/douyu1.php?id=9548612
+朴素妍斗鱼,http://159.75.85.63:35455/douyu/603070#http://zzy789.xyz/douyu1.php?id=603070
+音乐速递,http://159.75.85.63:35455/douyu/4846936#http://zzy789.xyz/douyu1.php?id=4846936
 
 
 
