@@ -24,7 +24,7 @@ CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/322122674
 CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226717/1.m3u8
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226645/1.m3u8
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226663/1.m3u8
-CCTV15,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226648/1.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226825/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226660/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226727/1.m3u8
@@ -92,23 +92,6 @@ CCTV8,http://111.20.40.166/PLTV/88888893/224/3221226391/index.m3u8
 CCTV8,http://111.20.40.167/PLTV/88888893/224/3221226391/index.m3u8
 CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 CCTV16,http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
-CCTV1,http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
-CCTV2,http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
-CCTV3,http://111.59.63.32:9901/tsfile/live/1010_1.m3u8
-CCTV4,http://111.59.63.32:9901/tsfile/live/1011_1.m3u8
-CCTV5,http://111.59.63.32:9901/tsfile/live/1012_1.m3u8
-CCTV6,http://111.59.63.32:9901/tsfile/live/1013_1.m3u8
-CCTV7,http://111.59.63.32:9901/tsfile/live/1014_1.m3u8
-CCTV8,http://111.59.63.32:9901/tsfile/live/1015_1.m3u8
-CCTV9,http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
-CCTV10,http://111.59.63.32:9901/tsfile/live/1017_1.m3u8
-CCTV11,http://111.59.63.32:9901/tsfile/live/1018_1.m3u8
-CCTV12,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
-CCTV13,http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
-CCTV14,http://111.59.63.32:9901/tsfile/live/1021_1.m3u8
-CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
-CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
-CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 
 
 
@@ -154,30 +137,34 @@ CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
-广西广电,http://111.59.63.32:9901/tsfile/live/1026_1.m3u8
-安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
-湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
-四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
-北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
-浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
-广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
-深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
-广西广电,http://111.59.63.32:9901/tsfile/live/1034_1.m3u8
-重庆卫视,http://111.59.63.32:9901/tsfile/live/1035_1.m3u8
-贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
-广西广电,http://111.59.63.32:9901/tsfile/live/1037_1.m3u8
-内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
-新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
-宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
-辽宁卫视,http://111.59.63.32:9901/tsfile/live/1041_1.m3u8
-江西卫视,http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
-吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
-湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
-黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
-山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
-天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 
+安徽卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
+安徽卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/index.m3u8
+北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/index.m3u8
+东方卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/index.m3u8
+冬奥纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/index.m3u8
+广东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+广东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/index.m3u8
+黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226215/index.m3u8
+湖北卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226194/index.m3u8
+湖北卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
+湖南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+湖南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8
+纪实人文,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
+江苏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+江苏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/index.m3u8
+辽宁卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
+辽宁卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226210/index.m3u8
+山东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
+山东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
+深圳卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+深圳卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/index.m3u8
+天津卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
+浙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
+浙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226199/index.m3u8
+重庆卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
 
 
 
@@ -194,7 +181,6 @@ CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1070_1.m3u8
 凤凰资讯,http://lcx-olt.8866.org:8181/tsfile/live/1069_1.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-
 
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://r.jdshipin.com/62WM7
@@ -228,16 +214,11 @@ NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
-CGTN新闻,http://lcx-olt.8866.org:8181/tsfile/live/1067_1.m3u8
-CGTN纪实,http://lcx-olt.8866.org:8181/tsfile/live/1068_1.m3u8
-
 
 
 
 广西,#genre#
 
-广西卫视,http://39.135.46.243:6610/PLTV/77777777/224/3221225767/index.m3u8?hls
-广西卫视,http://39.135.46.243:6610/PLTV/77777777/224/3221225986/index.m3u8?hls
 广西卫视,http://lcx-olt.8866.org:8181/tsfile/live/1034_1.m3u8
 广西新闻,http://lcx-olt.8866.org:8181/tsfile/live/1036_1.m3u8
 广西影视,http://lcx-olt.8866.org:8181/tsfile/live/1015_1.m3u8
@@ -260,27 +241,6 @@ CGTN纪实,http://lcx-olt.8866.org:8181/tsfile/live/1068_1.m3u8
 南宁影视,rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A?zguangxd
 南宁都市,rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A?zguangxd
 
-北海新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225879/index.m3u8?hls
-北海经济科教,http://39.135.46.243:6610/PLTV/77777777/224/3221225882/index.m3u8?hls
-防城港新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225883/index.m3u8?hls
-防城港公共,http://39.135.46.243:6610/PLTV/77777777/224/3221225927/index.m3u8?hls
-河池新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225844/index.m3u8?hls
-河池教育,http://39.135.46.243:6610/PLTV/77777777/224/3221225890/index.m3u8?hls
-河池南丹,http://39.135.46.243:6610/PLTV/77777777/224/3221225981/index.m3u8?hls
-梧州新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225992/index.m3u8?hls
-梧州公共,http://39.135.46.243:6610/PLTV/77777777/224/3221225930/index.m3u8?hls
-梧州教育,http://39.135.46.243:6610/PLTV/77777777/224/3221225933/index.m3u8?hls
-玉林新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225838/index.m3u8?hls
-玉林公共,http://39.135.46.243:6610/PLTV/77777777/224/3221225835/index.m3u8?hls
-贺州综合,http://39.135.46.243:6610/PLTV/77777777/224/3221225847/index.m3u8?hls
-来宾综合,http://39.135.46.243:6610/PLTV/77777777/224/3221225903/index.m3u8?hls
-崇左综合,http://39.135.46.243:6610/PLTV/77777777/224/3221225967/index.m3u8?hls
-柳州新闻,http://39.135.46.243:6610/PLTV/77777777/224/3221225831/index.m3u8?hls
-柳州公共,http://39.135.46.243:6610/PLTV/77777777/224/3221225841/index.m3u8?hls
-柳州科教,http://39.135.46.243:6610/PLTV/77777777/224/3221225887/index.m3u8?hls
-柳州新闻,http://39.135.32.236:6610/PLTV/77777777/224/3221225831/index.m3u8?桂林移动
-柳州科教,http://39.135.32.236:6610/PLTV/77777777/224/3221225887/index.m3u8?桂林移动
-柳州公共,http://39.135.32.236:6610/PLTV/77777777/224/3221225841/index.m3u8?桂林移动
 
 
 
@@ -333,7 +293,6 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 【HD】奶虫??恐怖 丧尸 鬼片 灾难科幻,http://159.75.85.63:35455/douyu/263824#http://zzy789.xyz/douyu1.php?id=263824
 
 
-
 电视剧,#genre#
 【高画质❶】,http://159.75.85.63:35455/douyu/2838296#http://zzy789.xyz/douyu1.php?id=2838296
 【高画质❷】曾小贤?胡一菲?第一季?第三季?,http://159.75.85.63:35455/douyu/5062195#http://zzy789.xyz/douyu1.php?id=5062195
@@ -363,13 +322,7 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 顺财?搞笑一家亲,http://159.75.85.63:35455/douyu/10084875#http://zzy789.xyz/douyu1.php?id=10084875
 
 
-
-
-
 IHOT,#genre#
-求索科学,http://111.40.196.35/0000000000001001/6000000002000032344/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
-求索动物,http://111.40.196.35/0000000000001001/6000000002000010046/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
-求索生活,http://111.40.196.35/0000000000001001/6000000002000003382/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 求索科学,http://111.40.196.27:443/0000000000001000/6000000002000032344/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
 求索动物,http://111.40.196.27:443/0000000000001000/6000000002000010046/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
 求索生活,http://111.40.196.27:443/0000000000001000/6000000002000003382/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
@@ -400,7 +353,6 @@ IHOT,#genre#
 
 
 音乐,#genre#
-
 华语点歌台,http://159.75.85.63:35455/douyu/3186217#http://zzy789.xyz/douyu1.php?id=3186217
 音乐女团,http://159.75.85.63:35455/douyu/3870925#http://zzy789.xyz/douyu1.php?id=3870925
 音乐台,http://159.75.85.63:35455/douyu/329667#http://zzy789.xyz/douyu1.php?id=329667
