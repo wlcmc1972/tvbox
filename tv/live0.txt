@@ -29,8 +29,6 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-
-
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -58,8 +56,6 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-
-
 
 
 
@@ -672,19 +668,6 @@ BestTVlive,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001154/1.
 茶频道,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/1.m3u8
 
 
-
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-
-第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-第一财经,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001017/1.m3u8
-东方财经,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001318/1.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-财富天下,http://lcx-olt.8866.org:8181/tsfile/live/1037_1.m3u8
-家庭理财,http://113.117.74.11:8081/hls/112/index.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-
-
 1号[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 2号[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 3号[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -777,13 +760,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?blog.ntna
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
 
 
-
-
-
-
-
-
-测试,#genre#
+海外,#genre#
 
 [BY;RU]БелРос (576p),http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 [NZ;AU]Wairarapa TV,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
@@ -945,3 +922,5 @@ TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 
+
+测试,#genre#

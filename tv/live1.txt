@@ -138,34 +138,32 @@ CCTV16,http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
-安徽卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
-安徽卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/index.m3u8
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/index.m3u8
-东方卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/index.m3u8
-冬奥纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/index.m3u8
-广东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
-广东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/index.m3u8
-黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226215/index.m3u8
-湖北卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226194/index.m3u8
-湖北卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
-湖南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
-湖南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8
-纪实人文,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
-江苏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-江苏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/index.m3u8
-辽宁卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
-辽宁卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226210/index.m3u8
-山东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
-山东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
-深圳卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-深圳卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/index.m3u8
-天津卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
-浙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
-浙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226199/index.m3u8
-重庆卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
+广东卫视,http://lcx-olt.8866.org:8181/tsfile/live/1043_1.m3u8
+安徽卫视,http://lcx-olt.8866.org:8181/tsfile/live/1053_1.m3u8
+北京卫视,http://lcx-olt.8866.org:8181/tsfile/live/1049_1.m3u8
+东方卫视,http://lcx-olt.8866.org:8181/tsfile/live/1047_1.m3u8
+甘肃卫视,http://lcx-olt.8866.org:8181/tsfile/live/1060_1.m3u8
+贵州卫视,http://lcx-olt.8866.org:8181/tsfile/live/1064_1.m3u8
+河北卫视,http://lcx-olt.8866.org:8181/tsfile/live/1057_1.m3u8
+黑龙江卫视,http://lcx-olt.8866.org:8181/tsfile/live/1048_1.m3u8
+湖南卫视,http://lcx-olt.8866.org:8181/tsfile/live/1065_1.m3u8
+江苏卫视,http://lcx-olt.8866.org:8181/tsfile/live/1051_1.m3u8
+江西卫视,http://lcx-olt.8866.org:8181/tsfile/live/1059_1.m3u8
+辽宁卫视,http://lcx-olt.8866.org:8181/tsfile/live/1061_1.m3u8
+深圳卫视,http://lcx-olt.8866.org:8181/tsfile/live/1044_1.m3u8
+浙江卫视,http://lcx-olt.8866.org:8181/tsfile/live/1066_1.m3u8
+天津卫视,http://lcx-olt.8866.org:8181/tsfile/live/1050_1.m3u8
+广西卫视,http://lcx-olt.8866.org:8181/tsfile/live/1034_1.m3u8
 
+江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
+安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
+湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
+浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
+广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
+重庆卫视,http://111.59.63.32:9901/tsfile/live/1035_1.m3u8
+新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
+黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
 
 
 
@@ -221,16 +219,16 @@ NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 
 广西卫视,http://lcx-olt.8866.org:8181/tsfile/live/1034_1.m3u8
 广西新闻,http://lcx-olt.8866.org:8181/tsfile/live/1036_1.m3u8
-广西影视,http://lcx-olt.8866.org:8181/tsfile/live/1015_1.m3u8
+
 广西都市,http://lcx-olt.8866.org:8181/tsfile/live/1035_1.m3u8
 广西综艺,http://lcx-olt.8866.org:8181/tsfile/live/1001_1.m3u8
 南宁新闻,http://lcx-olt.8866.org:8181/tsfile/live/1040_1.m3u8
 南宁影视,http://lcx-olt.8866.org:8181/tsfile/live/1039_1.m3u8
-南宁都市,http://lcx-olt.8866.org:8181/tsfile/live/1042_1.m3u8
+
 南宁公共,http://lcx-olt.8866.org:8181/tsfile/live/1041_1.m3u8
-广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+
 广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
-广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+
 广西都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 广西综艺,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
 南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
@@ -247,13 +245,24 @@ NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 电影,#genre#
 
 1905电影,http://zgntv.icu/live/1905.php?id=1905dy#http://angtv.cn/test/1905.php
+CHC动作电影,http://111.20.40.160/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.40.167/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.40.171/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影,http://111.20.40.160/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://111.20.40.167/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://111.20.40.160/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://lcx-olt.8866.org:8181/tsfile/live/1012_1.m3u8
 CHC高清电影,http://lcx-olt.8866.org:8181/tsfile/live/1013_1.m3u8
 CHC家庭影院,http://lcx-olt.8866.org:8181/tsfile/live/1011_1.m3u8
-
 
 
 【4K HDR】Dolby Atmos,http://159.75.85.63:35455/douyu/9249162$4K#http://zzy789.xyz/douyu1.php?id=9249162$1080P
