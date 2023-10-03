@@ -6,7 +6,7 @@ CCTV2,https://angtv.cn/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://angtv.cn/test/bestv.php?id=cctv38m/8000000
 CCTV4,https://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
 
-CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
+CCTV5,http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
 
 CCTV5+,https://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,https://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000

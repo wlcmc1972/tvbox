@@ -12,7 +12,7 @@ CCTV4,https://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$1080P
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
-CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
+CCTV5,http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
 
 CCTV5+,https://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,https://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000
@@ -230,7 +230,7 @@ CCTV17,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001241/1.m3u8
 CETV1,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001020/1.m3u8
 CETV4,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001348/1.m3u8
 
-
+CCTV卫生健康,http://www.tvzb.com/iptv/tvzb82.php?id=wsjk
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
