@@ -10,10 +10,9 @@ CCTV3,https://angtv.cn/test/bestv.php?id=cctv38m/8000000
 CCTV4,https://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$1080P
-CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
-
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
+CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
 
 CCTV5+,https://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,https://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000
@@ -28,29 +27,29 @@ CCTV14,https://angtv.cn/test/bestv.php?id=cctvsehd8m/8000000
 CCTV15,https://angtv.cn/test/bestv.php?id=cctv15hd8m/8000000
 CCTV16,https://angtv.cn/test/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://angtv.cn/test/bestv.php?id=cctv17hd8m/8000000
-四川卫视,https://angtv.cn/test/bestv.php?id=scwshd/8000000
+广西卫视,https://angtv.cn/test/bestv.php?id=gxwshd8m/8000000
+广东卫视,https://angtv.cn/test/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://angtv.cn/test/bestv.php?id=szwshd8m/8000000
 北京卫视,https://angtv.cn/test/bestv.php?id=bjwshd8m/8000000
+东方卫视,https://angtv.cn/test/bestv.php?id=dfwshd8m/8000000
 天津卫视,https://angtv.cn/test/bestv.php?id=tjwshd8m/8000000
 重庆卫视,https://angtv.cn/test/bestv.php?id=cqws8m/8000000
-东方卫视,https://angtv.cn/test/bestv.php?id=dfwshd8m/8000000
+四川卫视,https://angtv.cn/test/bestv.php?id=scwshd/8000000
 江苏卫视,https://angtv.cn/test/bestv.php?id=jswshd8m/8000000
 浙江卫视,https://angtv.cn/test/bestv.php?id=zjwshd8m/8000000
-东南卫视,https://angtv.cn/test/bestv.php?id=dnwshd8m/8000000
-广东卫视,https://angtv.cn/test/bestv.php?id=gdwshd8m/8000000
-广西卫视,https://angtv.cn/test/bestv.php?id=gxwshd8m/8000000
-贵州卫视,https://angtv.cn/test/bestv.php?id=gzwshd8m/8000000
-云南卫视,https://angtv.cn/test/bestv.php?id=ynwshd8m/8000000
-河北卫视,https://angtv.cn/test/bestv.php?id=hbwshd8m/8000000
-甘肃卫视,http://angtv.cn/test/bestv.php?id=gswshd8m/8000000
-河南卫视,https://angtv.cn/test/bestv.php?id=hnwshd8m/8000000
-黑龙江卫视,https://angtv.cn/test/bestv.php?id=hljwshd8m/8000000
-吉林卫视,https://angtv.cn/test/bestv.php?id=jlwshd8m/8000000
-深圳卫视,https://angtv.cn/test/bestv.php?id=szwshd8m/8000000
 湖南卫视,https://angtv.cn/test/bestv.php?id=hunanwshd8m/8000000
 安徽卫视,https://angtv.cn/test/bestv.php?id=ahwshd8m/8000000
+东南卫视,https://angtv.cn/test/bestv.php?id=dnwshd8m/8000000
+海南卫视,https://angtv.cn/test/bestv.php?id=hainanwshd8m/8000000
+河北卫视,https://angtv.cn/test/bestv.php?id=hbwshd8m/8000000
+河南卫视,https://angtv.cn/test/bestv.php?id=hnwshd8m/8000000
 江西卫视,https://angtv.cn/test/bestv.php?id=jxws8m/8000000
 辽宁卫视,https://angtv.cn/test/bestv.php?id=lnwshd8m/8000000
-海南卫视,https://angtv.cn/test/bestv.php?id=hainanwshd8m/8000000
+吉林卫视,https://angtv.cn/test/bestv.php?id=jlwshd8m/8000000
+黑龙江卫视,https://angtv.cn/test/bestv.php?id=hljwshd8m/8000000
+贵州卫视,https://angtv.cn/test/bestv.php?id=gzwshd8m/8000000
+云南卫视,https://angtv.cn/test/bestv.php?id=ynwshd8m/8000000
+甘肃卫视,http://angtv.cn/test/bestv.php?id=gswshd8m/8000000
 欢笑剧场,http://angtv.cn/test/bestv.php?id=hxjc8m/8000000
 劲爆体育,https://angtv.cn/test/bestv.php?id=jbtyhd8m/8000000
 湖北卫视,https://angtv.cn/test/bestv.php?id=hubeiws8m/8000000
@@ -216,7 +215,6 @@ CCTV2,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001220/1.m3u8
 CCTV3,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001186/1.m3u8
 CCTV4,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001221/1.m3u8
 CCTV5,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001187/1.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV6,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001188/1.m3u8
 CCTV7,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001236/1.m3u8
 CCTV8,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001189/1.m3u8
@@ -606,18 +604,18 @@ Rabbit每日爆料,http://159.75.85.63:35455/douyu/9685652#http://zzy789.xyz/dou
 
 剧场,#genre#
 
-北京IPTV淘精彩,http://111.196.130.165:4022/udp/239.3.1.178:8001
-北京IPTV萌宠TV,http://111.196.130.165:4022/udp/239.3.1.102:8001
-北京IPTV淘Baby,http://111.196.130.165:4022/udp/239.3.1.238:8001
-北京IPTV淘剧场,http://111.196.130.165:4022/udp/239.3.1.95:8001
 北京IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
+北京IPTV淘剧场,http://111.196.130.165:4022/udp/239.3.1.95:8001
+北京IPTV淘精彩,http://111.196.130.165:4022/udp/239.3.1.178:8001
 北京IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
-北京IPTV淘精彩,http://hf.bbtu.top:10000/udp/239.3.1.178:8001
-北京IPTV萌宠TV,http://hf.bbtu.top:10000/udp/239.3.1.102:8001
-北京IPTV淘Baby,http://hf.bbtu.top:10000/udp/239.3.1.238:8001
-北京IPTV淘剧场,http://hf.bbtu.top:10000/udp/239.3.1.95:8001
+北京IPTV淘Baby,http://111.196.130.165:4022/udp/239.3.1.238:8001
+北京IPTV萌宠TV,http://111.196.130.165:4022/udp/239.3.1.102:8001
 北京IPTV淘电影,http://hf.bbtu.top:10000/udp/239.3.1.250:8001
+北京IPTV淘剧场,http://hf.bbtu.top:10000/udp/239.3.1.95:8001
+北京IPTV淘精彩,http://hf.bbtu.top:10000/udp/239.3.1.178:8001
 北京IPTV淘娱乐,http://hf.bbtu.top:10000/udp/239.3.1.100:8001
+北京IPTV淘Baby,http://hf.bbtu.top:10000/udp/239.3.1.238:8001
+北京IPTV萌宠TV,http://hf.bbtu.top:10000/udp/239.3.1.102:8001
 
 北京IPTV淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
@@ -783,5 +781,6 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?blog.ntnas.to
 
 
 测试,#genre#
+
 
 
