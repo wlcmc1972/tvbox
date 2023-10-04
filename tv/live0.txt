@@ -10,9 +10,9 @@ CCTV3,https://angtv.cn/test/bestv.php?id=cctv38m/8000000
 CCTV4,https://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$1080P
-CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
-CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
-CCTV5,http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
+CCTV4美洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
+CCTV4欧洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226266/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
 
 CCTV5+,https://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,https://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000
