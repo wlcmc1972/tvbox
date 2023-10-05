@@ -7,14 +7,14 @@
 
 
 {"key": "豆瓣","name":"🐞豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/drpy2.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
-{"key": "Live2CMS","name":"👽电视点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
-{"key": "MTV转点播","name":"👽16万首MV","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
+{"key": "电视点播","name":"👽电视点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
+{"key": "MTV转点播","name":"👽16万首MV","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
 {"key": "MV_vod","name":"🐼️MTV点播","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "t41直播转点播","name":"🐼️┃ MTV┃t4","type": 4,"api":"http://120.53.102.254/dsp"},
 {"key": "t42直播转点播","name":"🐼️┃直播┃t4","type": 4,"api":"http://120.53.102.254/dsp999"},
 
 
-{"key": "csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/cc.jar"},
+{"key": "索尼","name": "🛸┃索妮┃4K┃","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","大陆综艺","动作片","国产动漫","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","日韩综艺","港台综艺","欧美综艺","足球","影视解说"]},
 {"key": "csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/Alist.json","jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/cc.jar"},
 {"key": "CCTV","name": "🅱️CCTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/cctv.json"},
 {"key": "电影磁力", "name": "🚢电影磁力4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/电影磁力4k.json"}, 
