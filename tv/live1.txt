@@ -50,22 +50,50 @@ CCTV17,https://angtv.cn/test/bestv.php?id=cctv17hd8m/8000000
 
 
 
-CCTV1,http://lovegfs.top:8000/udp/239.120.1.120:8778
-CCTV2,http://lovegfs.top:8000/udp/239.120.1.223:9484
-CCTV3,http://lovegfs.top:8000/udp/239.120.1.88:9420
-CCTV4,http://lovegfs.top:8000/udp/239.120.1.159:9012
-CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
-CCTV5+,http://lovegfs.top:8000/udp/239.120.1.245:9428
-CCTV6,http://lovegfs.top:8000/udp/239.120.1.49:8252
-CCTV7,http://lovegfs.top:8000/udp/239.120.1.224:9490
-CCTV8,http://lovegfs.top:8000/udp/239.120.1.50:8308
-CCTV9,http://lovegfs.top:8000/udp/239.120.1.227:9496
-CCTV10,http://lovegfs.top:8000/udp/239.120.1.250:9448
-CCTV11,http://lovegfs.top:8000/udp/239.120.1.163:9036
-CCTV12,http://lovegfs.top:8000/udp/239.120.1.230:9502
-CCTV13,http://lovegfs.top:8000/udp/239.120.1.165:9048
-CCTV14,http://lovegfs.top:8000/udp/239.120.1.193:8284
-CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
+﻿CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
+CCTV2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+CCTV3,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+CCTV4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+CCTV6,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls
+CCTV7,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+CCTV8,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/1/index.m3u8?fmt=ts2hls
+CCTV9,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+CCTV10,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+CCTV11,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+CCTV12,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+CCTV13,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV14,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+CCTV15,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+CCTV16,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
+CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+安徽卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
+北京卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
+东方卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+东南卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+广东卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
+贵州卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
+海南卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226298/1/index.m3u8?fmt=ts2hls
+河北卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+河南卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+黑龙江卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
+湖北卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225708/1/index.m3u8?fmt=ts2hls
+湖南卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
+吉林卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+江苏卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+江西卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+辽宁卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+青海卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226301/1/index.m3u8?fmt=ts2hls
+山东卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls
+深圳卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
+四川卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+天津卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
+浙江卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
+浙江卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
+重庆卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+
+
 
 
 
@@ -163,6 +191,23 @@ CCTV8,http://111.20.40.167/PLTV/88888893/224/3221226391/index.m3u8
 CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 CCTV16,http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
 
+CCTV1,http://lovegfs.top:8000/udp/239.120.1.120:8778
+CCTV2,http://lovegfs.top:8000/udp/239.120.1.223:9484
+CCTV3,http://lovegfs.top:8000/udp/239.120.1.88:9420
+CCTV4,http://lovegfs.top:8000/udp/239.120.1.159:9012
+CCTV5,http://lovegfs.top:8000/udp/239.120.1.46:8248
+CCTV5+,http://lovegfs.top:8000/udp/239.120.1.245:9428
+CCTV6,http://lovegfs.top:8000/udp/239.120.1.49:8252
+CCTV7,http://lovegfs.top:8000/udp/239.120.1.224:9490
+CCTV8,http://lovegfs.top:8000/udp/239.120.1.50:8308
+CCTV9,http://lovegfs.top:8000/udp/239.120.1.227:9496
+CCTV10,http://lovegfs.top:8000/udp/239.120.1.250:9448
+CCTV11,http://lovegfs.top:8000/udp/239.120.1.163:9036
+CCTV12,http://lovegfs.top:8000/udp/239.120.1.230:9502
+CCTV13,http://lovegfs.top:8000/udp/239.120.1.165:9048
+CCTV14,http://lovegfs.top:8000/udp/239.120.1.193:8284
+CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
+
 
 
 
@@ -207,6 +252,24 @@ CCTV16,http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+
+
+北京卫视,http://8.210.232.168/php/migu.php?id=bjws
+东方卫视,http://8.210.232.168/php/migu.php?id=dfws
+东方卫视,http://8.210.232.168/php/migu.php?id=dfws2
+辽宁卫视,http://8.210.232.168/php/migu.php?id=lnws
+陕西卫视,http://8.210.232.168/php/migu.php?id=sxws
+山东卫视,http://8.210.232.168/php/migu.php?id=sdws
+湖北卫视,http://8.210.232.168/php/migu.php?id=hubws
+湖南卫视,http://8.210.232.168/php/migu.php?id=hunws
+江西卫视,http://8.210.232.168/php/migu.php?id=jxws
+江苏卫视,http://8.210.232.168/php/migu.php?id=jsws
+四川卫视,http://8.210.232.168/php/migu.php?id=scws
+广东卫视,http://8.210.232.168/php/migu.php?id=gdws
+广东卫视,http://8.210.232.168/php/migu.php?id=gdws2
+
+
+
 
 广东卫视,http://lcx-olt.8866.org:8181/tsfile/live/1043_1.m3u8
 安徽卫视,http://lcx-olt.8866.org:8181/tsfile/live/1053_1.m3u8
