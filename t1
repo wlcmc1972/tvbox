@@ -1,7 +1,7 @@
 {
 
         "lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}],
-        "spider":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/custom_spider.jar",
+        "spider":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
 
      "sites": [
 
@@ -10,11 +10,15 @@
         {"key": "电视点播","name":"👽电视点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "MTV转点播","name":"👽16万首MV点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
         {"key": "MV_vod","name":"🎸明星┃MV点播","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key": "csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/Alist.json","jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/cc.jar"},
+        {"key": "酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/kuqimv.json"},
         {"key": "索尼","name": "🛸┃索妮┃4K┃","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","大陆综艺","动作片","国产动漫","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","日韩综艺","港台综艺","欧美综艺","足球","影视解说"]},
-        {"key": "中国蓝光网","name":"💧蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"},
-        {"key":"农民","name":"🧑🏻农民┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/农民影视.json","jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/cc.jar"},
-        {"key":"csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/cc.jar"},
+        {"key": "蓝光网","name":"💧蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"},
+        {"key": "农民","name":"🧑🏻农民┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/json/nm.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+        {"key": "一起看 ", "name":"👩‍👦一起看", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "csp_JOJO","name":"︎JOJO影视","type":3,"api":"csp_JOJO","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+        {"key": "csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+        {"key": "csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./xb/Alist.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+
 
 
 
