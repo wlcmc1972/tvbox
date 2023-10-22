@@ -5,26 +5,36 @@
 
      "sites": [
 
-        //自建资源区
-        {"key": "豆瓣","name":"🐞豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/drpy2.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
+//自建资源区===================================================================
+        {"key": "豆瓣","name":"🐞豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
         {"key": "电视点播","name":"👽电视点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "MTV转点播","name":"👽16万首MV点播","type":3,"api":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
+
         {"key": "MV_vod","name":"🎸明星┃MV点播","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key": "酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/kuqimv.json"},
-        {"key": "索尼","name": "🛸┃索妮┃4K┃","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","大陆综艺","动作片","国产动漫","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","日韩综艺","港台综艺","欧美综艺","足球","影视解说"]},
+        {"key": "索尼","name":"🛸┃索妮4K┃","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key": "新片热播","name":"🔷┃新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+        {"key": "嘉良┃影院","name":"📺嘉良┃影院","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
+        {"key": "爱迪┃高清","name":"🤟┃爱迪┃高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+        {"key": "极狐┃影院","name":"🎪┃极狐┃影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+
         {"key": "蓝光网","name":"💧蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"},
+        {"key": "酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/kuqimv.json"},
+
+        {"key": "應用商店","name":"🏠應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+        {"key": "哔哩","name":"🅱️哔哩","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","type":"帕梅拉#太极拳#广场舞#演唱会","cookie":""},"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+        {"key": "csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/Alist.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
         {"key": "农民","name":"🧑🏻农民┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/json/nm.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
         {"key": "一起看 ", "name":"👩‍👦一起看", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
         {"key": "csp_JOJO","name":"︎JOJO影视","type":3,"api":"csp_JOJO","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
         {"key": "csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
-        {"key": "csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/xb/Alist.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+
+//测试资源区===================================================================
 
 
-{"key":"新片热播","name":"🔷┃新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
-{"key":"嘉良┃影院","name":"嘉良┃影院","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
-{"key":"爱迪┃高清","name":"🤟┃爱迪┃高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key":"极狐┃影院","name":"🎪┃极狐┃影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
+
+
+//香雅情线路===================================================================
 
         //网盘资源区
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/玩偶哥哥.json"},
@@ -41,7 +51,6 @@
         {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt"},
         {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt"},
-        
         //爱优腾资源区
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key":"drpy_js_豆瓣","name":"🐞豆瓣荐片","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"},
@@ -49,6 +58,11 @@
         {"key":"drpy_js_优酷","name":"👑优酷","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"},
         {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"},
         {"key":"drpy_js_百忙无果","name":"🥭芒果","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/百忙无果.js"},
+
+
+//香雅情线路===================================================================
+//（./）替换（https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/）
+
         //jar内置爬虫规则区
         {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
         {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
