@@ -8,16 +8,15 @@
 //自建资源区===================================================================
 
         {"key": "豆瓣1","name":"🐞豆瓣荐片","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
-        {"key": "本地包","name":"🏠本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/market.json"},
-        {"key": "MTV转点播","name":"👽16万首MV","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
+        {"key": "本地包","name":"🌎本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/market.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/应用商店.jar"},
+        {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
         {"key": "电视点播1","name":"📺电视点播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "电视点播2","name":"📺电视点播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "明星MV","name":"🎸明星MV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
         {"key": "新片热播","name":"🆕新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
         {"key": "新片预告","name":"🆕新片预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
         {"key": "一起看 ", "name":"👩‍👦一起看", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
-        {"key": "JOJO影视","name":"︎🆙JOJO影视","type":3,"api":"csp_JOJO","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
-        {"key": "农民","name":"🧑🏻农民影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xhdwc.tk/json/nm.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+        {"key": "农民","name":"🧑🏻农民影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
 
 //测试资源区===================================================================
 
@@ -39,7 +38,7 @@
         {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
         {"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
         {"key":"酷狗","name":"酷狗","type":3,"api":"csp_Kugou","searchable":0,"changeable":0},
-        {"key":"索尼","name":"🛸索妮4K","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key":"索尼","name":"🛸索妮","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key":"暴風","name":"🌊暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key":"量子","name":"🔃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 
