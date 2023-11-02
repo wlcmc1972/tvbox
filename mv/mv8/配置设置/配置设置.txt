@@ -1,3 +1,0 @@
-{"key": "Live2CMS","name":"👽电视点播","type":3,"api":"https://gitee.com/wlcmc/tv/raw/master/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./电视点播目录.txt"},
-{"key": "MTV转点播","name": "👽16万首MV","type": 3,"api": "https://gitee.com/wlcmc/tv/raw/master/jar/live_min.js","ext": "./live_min.txt"},
-{"key": "MTV转点播","name": "👽16万首MV","type": 3,"api": "https://gitee.com/wlcmc/tv/raw/master/jar/直播转分线点播2.js","ext": "./mv.json"},
