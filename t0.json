@@ -1,8 +1,7 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
+
         "lives": [{"name": "直播","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}],
-        
+        "spider": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
 
     "sites": [
 
@@ -13,10 +12,10 @@
         {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
         {"key": "电视点播1","name":"📺电视点播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "电视点播2","name":"📺电视点播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
-        {"key": "明星MV","name":"🎸明星MV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"索尼","name":"🐝🛸索妮","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key":"暴風","name":"🐝🌊暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key":"量子","name":"🐝🔃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+        {"key": "明星MV","name":"🎸明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
+        {"key": "索尼","name":"🛸索妮","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+        {"key": "暴風","name":"🌊暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+        {"key": "量子","name":"🔃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
         {"key": "新片热播","name":"🆕新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 
         {"key": "新片预告","name":"🆕新片预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
@@ -30,8 +29,10 @@
 
 
 
-        //网盘资源区
 //蜜蜂资源区===================================================================
+
+        //网盘资源区（蜜蜂替换香雅情网盘）
+
         {"key":"七夜","name":"📀七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"易搜","name":"📀易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"雲搜","name":"📀雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
@@ -57,7 +58,10 @@
         {"key":"alist","name":"🅰alist网盘","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"應用商店","name":"🐝🛒應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/应用商店.jar"},
         {"key":"欧歌應用商店","name": "🛒欧歌应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/应用商店.jar"}, 
+
 //蜜蜂资源区===================================================================
+
+
 
         //爱优腾资源区
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
@@ -69,14 +73,8 @@
         {"key": "酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/kuqimv.json"},
 
 
-
-
-
-
-
-
-
-
+//香雅情本地线路---高天流云线路===================================================================
+//（./）替换（https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/）
 
         //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
