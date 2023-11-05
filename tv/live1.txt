@@ -409,15 +409,8 @@ CHC家庭影院,http://lcx-olt.8866.org:8181/tsfile/live/1011_1.m3u8
 音乐台D❶,http://159.75.85.63:35455/douyu/40471$4K#http://maomao.kandiantv.cn/douyu1.php?id=40471$1080P
 音乐台D❷,http://159.75.85.63:35455/douyu/113158#http://maomao.kandiantv.cn/douyu1.php?id=113158
 音乐台D❸,http://159.75.85.63:35455/douyu/8189873#http://maomao.kandiantv.cn/douyu1.php?id=8189873
+音乐台D❹,http://159.75.85.63:35455/douyu/8266799#http://maomao.kandiantv.cn/douyu1.php?id=8266799
 周杰伦,http://159.75.85.63:35455/douyu/7537296#http://zzy789.xyz/douyu1.php?id=7537296
-
-音乐石榴,http://mmitv.top/pltv/huya.php?id=17091681
-阿兰民歌,http://mmitv.top/pltv/huya.php?id=22970983
-精彩现场,http://mmitv.top/pltv/huya.php?id=21241817
-爵士乐赏,http://mmitv.top/pltv/huya.php?id=21241769
-华语翻唱,http://mmitv.top/pltv/huya.php?id=21241810
-动听音乐,http://mmitv.top/pltv/huya.php?id=19439762
-催眠音乐,http://mmitv.top/pltv/huya.php?id=21241811
 
 秋月剪水,http://159.75.85.63:35455/douyu/9588891#http://zzy789.xyz/douyu1.php?id=9588891
 飞鸟乐团,http://159.75.85.63:35455/douyu/9848602#http://zzy789.xyz/douyu1.php?id=9848602
@@ -439,6 +432,7 @@ Rabbit每日爆料,http://159.75.85.63:35455/douyu/9685652#http://zzy789.xyz/dou
 天籁音乐,http://159.75.85.63:35455/douyu/9548612#http://zzy789.xyz/douyu1.php?id=9548612
 朴素妍斗鱼,http://159.75.85.63:35455/douyu/603070#http://zzy789.xyz/douyu1.php?id=603070
 音乐速递,http://159.75.85.63:35455/douyu/4846936#http://zzy789.xyz/douyu1.php?id=4846936
+
 
 
 
