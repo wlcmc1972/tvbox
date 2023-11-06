@@ -317,7 +317,7 @@ HBO signature,http://208.115.225.174:14160
 
 电影,#genre#
 
-1905电影,http://zgntv.icu/live/1905.php?id=1905dy#http://angtv.cn/test/1905.php
+1905电影,http://zgntv.icu/live/1905.php?id=1905dy#http://8.210.232.168/php/1905.php?id=1905dy
 CHC动作电影,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
