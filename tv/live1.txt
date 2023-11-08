@@ -20,20 +20,17 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://8.210.232.168/php/migu.php?id=cctv17
-CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 
 CCTV1,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
 CCTV3,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
 CCTV4,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
 CCTV5,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
-CCTV5,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1
 CCTV5+,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
 CCTV6,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
 CCTV7,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
 CCTV8,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
 CCTV9,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1
-CCTV9,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1
 CCTV10,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
 CCTV11,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
 CCTV12,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
@@ -434,7 +431,7 @@ Dy狗大帅,http://159.75.85.63:35455/douyu/3321215#http://zzy789.xyz/douyu1.php
 武侠剧,http://159.75.85.63:35455/douyu/7655471#http://zzy789.xyz/douyu1.php?id=7655471
 肖胜350,http://159.75.85.63:35455/douyu/7338853#http://zzy789.xyz/douyu1.php?id=7338853
 米尼影院,http://159.75.85.63:35455/douyu/7642724#http://zzy789.xyz/douyu1.php?id=7642724
-香奶瓶,http://159.75.85.63:35455/douyu/6546908#http://zzy789.xyz/douyu1.php?id=6546908
+亲奶瓶,http://159.75.85.63:35455/douyu/6546908#http://zzy789.xyz/douyu1.php?id=6546908
 西游专场,http://159.75.85.63:35455/douyu/5472438#http://zzy789.xyz/douyu1.php?id=5472438
 天天见,http://159.75.85.63:35455/douyu/5635000#http://zzy789.xyz/douyu1.php?id=5635000
 ❶胡椒粉的胡歌,http://159.75.85.63:35455/douyu/5448413#http://zzy789.xyz/douyu1.php?id=5448413
