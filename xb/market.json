@@ -2,18 +2,16 @@
 
 {"name":"首页推薦","list":[       ]},
 
-{"name":"香雅情本地包","list":[
-{"name":"github本地包","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/zip/XYQTVBox_本地包.zip","icon":"https://agit.ai/lengniuge/api/raw/branch/master/MV.png"},
-{"name":"notabug本地包","url":"https://notabug.org/wlcmc1972/test/raw/master/zip/XYQTVBox_本地包.zip","icon":"https://p1.music.126.net/tVKiuoY7fhjtH0GhKNK1DQ==/109951168647467441.jpg?param=150y200"},
-{"name":"🐝應用商店本地包","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://i.imgs.ovh/2023/10/20/2IO0D.jpeg"},
-{"name":"欧歌應用商店本地包","url":"http://w2.nxog.top/d/nxog7/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar"}
+{"name":"香雅情和JAR","list":[
+{"name":"香雅情本地包","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqtvbox/main/XYQTVBox_本地包.zip","icon":"https://i.imgs.ovh/2023/10/20/2IO0D.jpeg"},
+{"name":"香雅情.jar","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqtvbox/main/custom_spider转码在前.jar","icon":"https://agit.ai/lengniuge/api/raw/branch/master/MV.png"},
+{"name":"FongMi.jar","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","icon":"https://p1.music.126.net/tVKiuoY7fhjtH0GhKNK1DQ==/109951168647467441.jpg?param=150y200"},
+{"name":"CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","icon":"https://api.dzzui.com/api/avatar"}
 
 ]},
 
-{"name":"JAR","list":[
-{"name":"香雅情.jar","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/zip/custom_spider转码在前.jar","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"FongMi.jar","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","icon":"https://api.dzzui.com/api/avatar"},
+{"name":"备份","list":[
+{"name":"欧歌應用商店香雅情本地包","url":"http://w2.nxog.top/d/nxog7/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar"},
 {"name":"CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","icon":"https://api.dzzui.com/api/avatar"}
 
 ]},
