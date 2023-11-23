@@ -27,7 +27,7 @@
 //蜜蜂资源区===================================================================
 
         //网盘资源区（蜜蜂替换香雅情网盘）
-
+        /*
         {"key":"七夜","name":"📀七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"易搜","name":"📀易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"雲搜","name":"📀雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
@@ -35,7 +35,7 @@
         {"key":"紙條搜","name":"📀紙條搜","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"盤搜索","name":"📀盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {"key":"找資源","name":"📀找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt$$$test2$$$test2","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-
+        */
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"},
 
         {"key":"豆瓣2","name":"🐞豆瓣荐片","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
