@@ -10,9 +10,10 @@
 
 ]},
 
-{"name":"备份","list":[
-{"name":"欧歌應用商店香雅情本地包","url":"http://w2.nxog.top/d/nxog7/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","icon":"https://api.dzzui.com/api/avatar"}
+{"name":"蜜蜂APP","list":[
+{"name":"電視-java","url":"https://my.t4tv.hz.cz/apk/release/leanback-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v8a"},
+{"name":"手機-java","url":"https://my.t4tv.hz.cz/apk/release/mobile-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png","version":"v8a"},
+{"name":"4.x版-java","url":"https://my.t4tv.hz.cz/apk/kitkat/leanback.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v7a"}
 
 ]},
 
@@ -20,14 +21,22 @@
 {"name":"玩偶","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json","icon":"https://api.dzzui.com/api/avatar"},
 {"name":"賤賤","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","icon":"https://api.dzzui.com/api/avatar"},
 {"name":"哔哩","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","icon":"https://api.dzzui.com/api/avatar"},
-
 {"name":"alist","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","icon":"https://api.dzzui.com/api/avatar"},
 {"name":"🐝🛒應用商店","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"🛒欧歌应用商店","url":"http://m.nxog.top/nxog/ts/sd.php","icon":"https://api.dzzui.com/api/avatar"},
 
+{"name":"🛒欧歌应用商店","url":"http://m.nxog.top/nxog/ts/sd.php","icon":"https://api.dzzui.com/api/avatar"},
 {"name":"农民","url":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","icon":"https://api.dzzui.com/api/avatar"}
 
+]},
+
+
+
+{"name":"备份","list":[
+{"name":"欧歌應用商店香雅情本地包","url":"http://w2.nxog.top/d/nxog7/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar"},
+{"name":"CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","icon":"https://api.dzzui.com/api/avatar"}
+
 ]}
+
 
 ]
 
