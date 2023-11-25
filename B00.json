@@ -12,12 +12,12 @@
         {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"./jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./xb/16万首MV.json"},
         {"key": "本地包","name":"🌎本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./xb/market.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
         {"key": "alist0","name":"🅱️🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./xb/alist.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key": "暴風","name":"🌊暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key": "量子","name":"🔃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-        {"key": "非凡","name":"🆖非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-        {"key": "明星MV","name":"🎸明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key": "索尼","name":"🛸索妮","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key": "新片热播","name":"🆕新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
+        {"key": "暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key": "量子","name":"🔃量子(采集)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+        {"key": "非凡","name":"🆖非凡(采集)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+        {"key": "明星MV","name":"🎸明星MV(采集)","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
+        {"key": "索尼","name":"🛸索妮(采集)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key": "新片热播","name":"🆕新片热播(采集)","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
         {"key": "新片预告","name":"🆕新片预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"},
         {"key": "一起看 ", "name":"👩‍👦一起看", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"}, 
         {"key": "南瓜", "name": "🍉南瓜", "type": 3, "api": "csp_NanGua", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1,"jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"}, 
@@ -31,12 +31,13 @@
 //香雅情线路===================================================================
         //网盘资源区
         {"key":"Gitcafe","name":"📀小纸条(SP搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_Zhaozy","name":"📀找资源(SP搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+        {"key":"csp_Zhaozy","name":"📀找资源(SP搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
         {"key":"csp_AliPS","name":"📀喵狸盘搜(SP搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Yisou","name":"📀易搜(SP搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Upyunso","name":"📀UP云搜(SP搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/玩偶哥哥.json"},
-        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/云盘资源分享.json"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/云盘资源.json"},
+        {"key": "csp_XYQHikerAL_云盘资源分享","name":"📀云盘资源分享(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/云盘资源分享.json"},
         {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/我的小站.json"},
         {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/阿里云盘网.json"},
         {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/Download/XYQTVBox/XYQHiker/豆豆飞.json"},
@@ -57,12 +58,12 @@
 
 //蜜蜂资源区===================================================================
         //玩偶调用本地："ext":{"token":"---","filter":"---"}，需要配合jar使用
-        {"key":"酷狗","name":"🐝🐼酷狗","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key":"玩偶","name":"🐝👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","filter":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"},"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key":"賤賤","name":"🐝賤賤","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key":"哔哩","name":"🐝🅱️哔哩","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","type":"帕梅拉#太极拳#广场舞#演唱会","cookie":""},"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key":"alist","name":"🐝🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
-        {"key":"應用商店","name":"🐝🛒應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"酷狗","name":"🐼酷狗🐝","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"玩偶","name":"📀玩偶🐝","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","filter":"https://fm.t4tv.hz.cz/json/wogg.json"},"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"哔哩","name":"🅱️哔哩🐝","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://fm.t4tv.hz.cz/json/bili.json","type":"帕梅拉#太极拳#广场舞#演唱会","cookie":""},"jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"賤賤","name":"🐝賤賤🐝","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"alist","name":"🅰alist网盘🐝","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/alist.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
+        {"key":"應用商店","name":"🛒應用商店🐝","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"},
         {"key":"欧歌應用商店","name": "🛒欧歌应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"http://127.0.0.1:9978/file/Download/custom_spider.jar"}, 
 //蜜蜂资源区===================================================================
 
