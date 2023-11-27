@@ -1,9 +1,13 @@
 {
 
-        "lives": [{"name": "直播","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live2.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}],
-         "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f",
+        "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f",
+        "lives": [
+       {"name": "本地live0","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live2.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "本地live1","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "本地live2","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       ],
 
-     "sites": [
+       "sites": [
 
 //自建资源区===================================================================
         {"key": "豆瓣1","name":"🐞豆瓣荐片","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
