@@ -10,12 +10,12 @@
        "sites": [
 
 //自建资源区===================================================================
-        {"key": "豆瓣1","name":"🐞豆瓣荐片","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
-        {"key": "电视点播1","name":"📺电视点播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
-        {"key": "电视点播2","name":"📺电视点播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
-        {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
-        {"key": "本地包","name":"🌎本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/market.json"},
-        {"key": "alist0","name":"🅱️🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/alist.json"},
+        {"key": "豆瓣1","name":"🐞豆瓣荐片","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/豆瓣.js"},
+        {"key": "电视点播1","name":"📺电视点播","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
+        {"key": "电视点播2","name":"📺电视点播","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
+        {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
+        {"key": "本地包","name":"🌎本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/market.json"},
+        {"key": "alist0","name":"🅱️🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/alist.json"},
         {"key": "暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "量子","name":"🔃量子(采集)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
         {"key": "非凡","name":"🆖非凡(采集)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
@@ -60,10 +60,10 @@
 //蜜蜂资源区===================================================================
 
         //爱优腾资源区
-        {"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"👑优酷","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"🥭芒果","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/百忙无果.js"},
+        {"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"👑优酷","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/腾云驾雾.js"},
+        {"key":"drpy_js_百忙无果","name":"🥭芒果","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/百忙无果.js"},
         {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0}
        
     ],
