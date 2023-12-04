@@ -28,6 +28,9 @@
 //测试资源区===================================================================
 
 
+{ "key": "豆瓣推荐", "name": "豆瓣推荐", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0,"jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+{ "key": "Aid", "name": "急救教学", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 3.8 },"jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+{ "key": "csp_Nmys", "name": "农民", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/农民影视.json","jar":"http://127.0.0.1:9978/file/Download/gd5ic01b6d4922692401eac6018178d033d06"}, 
 
 
 
