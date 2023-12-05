@@ -1,6 +1,6 @@
 {
-       "spider": "https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.jar",
-       //"spider": "https://ghproxy.net/https:/raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/custom_spider.jar",
+       //"spider": "https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.txt",
+       "spider": "https://ghproxy.net/https:/raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/custom_spider.txt",
        "lives": [
        {"name": "在线live1","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
        {"name": "在线live0","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
