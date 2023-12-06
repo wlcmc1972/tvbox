@@ -3,8 +3,12 @@
         "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f",
         "lives": [
        {"name": "本地live2","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live2.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
+       {"name": "本地live0","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
        {"name": "本地live1","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-       {"name": "本地live1","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "本地live2","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live2.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live0","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live1","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
        ],
 
        "sites": [
@@ -22,9 +26,16 @@
         {"key": "明星MV","name":"🎸明星MV(采集)","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
         {"key": "索尼","name":"🛸索妮(采集)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "新片热播","name":"🆕新片热播(采集)","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
-        {"key": "新片预告","name":"🆕新片预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
-        {"key": "一起看 ", "name":"👩‍👦一起看", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
-        {"key": "南瓜", "name": "🍉南瓜", "type": 3, "api": "csp_NanGua", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "新片预告","name":"🆕新片预告(CC)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+        {"key": "一起看 ", "name":"👩‍👦一起看(CC)", "type":3, "api":"csp_YQKan", "searchable":1, "quickSearch":1, "changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "南瓜", "name": "🍉南瓜(CC)", "type": 3, "api": "csp_NanGua", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "csp_Nmys", "name": "🧑🏻‍农民(CC)", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/农民影视.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "Aid", "name": "急救教学(CC)", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 3.8 },"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+        {"key": "豆瓣荐片", "name": "🐞豆瓣荐片(CC)", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
+
+//测试资源区===================================================================
+
+
 
 
 //蜜蜂资源区===================================================================
@@ -64,6 +75,8 @@
         {"key":"drpy_js_优酷","name":"👑优酷","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/优酷.js"},
         {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/腾云驾雾.js"},
         {"key":"drpy_js_百忙无果","name":"🥭芒果","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/drpy2.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/百忙无果.js"},
+        {"key": "蓝光网","name":"💧蓝光网4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"},
+        {"key": "酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/kuqimv.json"},
         {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0}
        
     ],
