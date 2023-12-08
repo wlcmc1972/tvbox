@@ -25,8 +25,28 @@
 {"name":"alist","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
 {"name":"🐝🛒應用商店","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
 {"name":"农民","url":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","icon":"https://agit.ai/lengniuge/api/raw/branch/master/MV.png"}
-]}
+]},
 
+{"name":"软件集合","list":[
+{"name":"欧歌助手","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/欧歌助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"一键TOken","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/一键tk.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"桌面导航","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/桌面导航.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"开机起动","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/开机启动.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23tv起动"},
+{"name":"甲壳虫ADB助手","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/甲壳虫ADB助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"阿里云盘TV版","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/阿里云盘TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"当贝桌面","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/当贝桌面.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"小米电视助手","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/小米电视助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"八爪鱼遥控TV版","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/八爪鱼遥控TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"八爪鱼遥控手机版","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/八爪鱼遥控手机版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"TVBOX助手","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/TVBOX助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"小白文件管理器TV版","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/小白文件管理器TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"}
+]},
+
+{"name":"本地包软件","list":[
+{"name":"香雅情","url":"http://w6.nxog.top:81/d/动动/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar","version":"11-12-大小3mb-XYQTVBox"},
+{"name":"奇奇本地仓","url":"http://w6.nxog.top:81/d/动动/软件/本地包/奇奇本地仓.zip","icon":"https://api.dzzui.com/api/avatar","version":"11-13-大小17MB-tvboxqq"},
+{"name":"心动本地包","url":"http://w6.nxog.top:81/d/动动/软件/本地包/心动本地包.zip","icon":"https://api.dzzui.com/api/avatar","version":"10-23-大小-87mb-心动本地包"}
+]}
 
 
 ]
