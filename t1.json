@@ -1,6 +1,5 @@
 {
-       "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-       //"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/custom_spider.jar;md5;316660b0adb299c1dc63587579a3522e",
+       "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/custom_spider.jar;md5;316660b0adb299c1dc63587579a3522e",
        "lives": [
        {"name": "在线live1","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
@@ -18,7 +17,7 @@
         {"key": "电视点播1","name":"📺电视点播","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2mv.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "电视点播2","name":"📺电视点播","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tv/电视点播目录.txt"},
         {"key": "MTV转点播","name":"🆎16万首MV","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/jar/live2cms.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/16万首MV.json"},
-        {"key": "本地包","name":"🌎本地包","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key": "应用商店","name":"🛒应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/应用商店.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key": "alist0","name":"🅱️🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key": "暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "量子","name":"🔃量子(采集)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
@@ -40,6 +39,7 @@
 //蜜蜂资源区===================================================================
 
         //网盘资源区（蜜蜂替换香雅情网盘）
+        /*
         {"key":"七夜","name":"📀七夜(🐝)","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"易搜","name":"📀易搜(🐝)","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"雲搜","name":"📀雲搜(🐝)","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
@@ -47,6 +47,7 @@
         {"key":"紙條搜","name":"📀紙條搜(🐝)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"盤搜索","name":"📀盤搜索(🐝)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"找資源","name":"📀找資源(🐝)","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt$$$test2$$$test2","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        */
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 
         {"key":"豆瓣2","name":"🐞豆瓣荐片(🐝)","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/douban.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
@@ -63,7 +64,6 @@
         {"key":"賤賤","name":"🐝賤賤(🐝)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"alist","name":"🅰alist网盘(🐝)","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"應用商店","name":"🛒應用商店(🐝)","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"欧歌應用商店","name": "🛒欧歌应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"}, 
 //蜜蜂资源区===================================================================
 
 
