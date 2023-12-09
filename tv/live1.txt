@@ -16,13 +16,12 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV12,http://cfss.cc/api/ysp/cctv12.m3u8
+CCTV11,https://tvmvip.com/php/ak.php?id=cctv11
+CCTV12,https://tvmvip.com/php/ak.php?id=cctv12
 CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
@@ -31,7 +30,7 @@ CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://cfss.cc/api/ysp/cctv17.m3u8
+CCTV17,https://tvmvip.com/php/ak.php?id=cctv17
 CCTV1,http://218.241.192.50:8808/udp/239.3.1.129:8008
 CCTV2,http://218.241.192.50:8808/udp/239.3.1.60:8084
 CCTV3,http://218.241.192.50:8808/udp/239.3.1.172:8001
@@ -47,24 +46,6 @@ CCTV14,http://218.241.192.50:8808/udp/239.3.1.65:8132
 CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
 CCTV16,http://218.241.192.50:8808/udp/239.3.1.184:8001
 CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144
-CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
-CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV3,http://cfss.cc/api/ysp/cctv3.m3u8
-CCTV4,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV5,http://cfss.cc/api/ysp/cctv5.m3u8
-CCTV6,http://cfss.cc/api/ysp/cctv6.m3u8
-CCTV7,http://cfss.cc/api/ysp/cctv7.m3u8
-CCTV8,http://cfss.cc/api/ysp/cctv8.m3u8
-CCTV9,http://cfss.cc/api/ysp/cctv9.m3u8
-CCTV10,http://cfss.cc/api/ysp/cctv10.m3u8
-CCTV11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV12,http://cfss.cc/api/ysp/cctv12.m3u8
-CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV14,http://cfss.cc/api/ysp/cctv14.m3u8
-CCTV15,http://cfss.cc/api/ysp/cctv15.m3u8
-CCTV16,http://cfss.cc/api/ysp/cctv16.m3u8
-CCTV17,http://cfss.cc/api/ysp/cctv17.m3u8
-CCTV2,http://cfss.cc/ds/bst.php?id=Cf-2
 
 卫视,#genre#
 安徽卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
@@ -81,6 +62,7 @@ CCTV2,http://cfss.cc/ds/bst.php?id=Cf-2
 湖南卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 辽宁卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 山东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 天津卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
@@ -281,9 +263,6 @@ NewTV中国功夫,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1070_1.m3u8
-凤凰资讯,http://lcx-olt.8866.org:8181/tsfile/live/1069_1.m3u8
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 J2,http://r.jdshipin.com/Nr5jq
@@ -393,12 +372,6 @@ HBO signature,http://208.115.225.174:14160
 CHC动作电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://111.20.40.167/PLTV/88888893/224/3221226465/index.m3u8
-CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://111.20.40.167/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
-CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
