@@ -2,32 +2,38 @@
 
 {"name":"首页推薦","list":[       ]},
 
-{"name":"香雅情和JAR","list":[
-{"name":"香雅情本地包","url":"https://mirror.ghproxy.com/https://github.com/xyq254245/xyqonlinerule/archive/refs/heads/main.zip","icon":"https://i.imgs.ovh/2023/10/20/2IO0D.jpeg"},
+{"name":"更新本地包和JAR","list":[
+{"name":"自建本地包","url":"https://mirror.ghproxy.com/https://github.com/wlcmc1972/tvbox/archive/refs/heads/main.zip","icon":"https://i.imgs.ovh/2023/10/20/2IO0D.jpeg"},
 {"name":"蜜蜂本地包","url":"https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/archive/refs/heads/main.zip","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
-{"name":"xhdwc.tk-CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"无名-CC.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","icon":"https://api.dzzui.com/api/avatar"},
-{"name":"FongMi.jar","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png"}
+{"name":"cc.jar","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","icon":"https://api.dzzui.com/api/avatar","version":"gd5ic01b6d4922692401eac6018178d033d06"},
+{"name":"fan.txt","url":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","icon":"https://api.dzzui.com/api/avatar","version":"uyv0t678c488189af47bb91dc108484d17431"},
+{"name":"FongMi.jar","url":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png","version":"custom_spider.jar"}
 
 
 ]},
 
-{"name":"蜜蜂APP","list":[
-{"name":"電視-java","url":"https://my.t4tv.hz.cz/apk/release/leanback-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v8a"},
-{"name":"手機-java","url":"https://my.t4tv.hz.cz/apk/release/mobile-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png","version":"v8a"},
-{"name":"4.x版-java","url":"https://my.t4tv.hz.cz/apk/kitkat/leanback.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v7a"}
+{"name":"APP下载","list":[
+{"name":"蜜蜂_電視-java","url":"https://my.t4tv.hz.cz/apk/release/leanback-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v8a"},
+{"name":"蜜蜂_手機-java","url":"https://my.t4tv.hz.cz/apk/release/mobile-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png","version":"v8a"},
+{"name":"蜜蜂_4.x版-java","url":"https://my.t4tv.hz.cz/apk/kitkat/leanback.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v7a"},
+{"name":"q20230716-2022魔改内置版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/tvbox/TVBox_20230716-2022-修改背景共存版.apk","icon":"https://api.dzzui.com/api/avatar","version":"魔改内置版"},
+{"name":"q20230902-0114自打包内置版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/tvbox/TVBox_q215613905_20230902-0114-自打包.apk","icon":"https://api.dzzui.com/api/avatar","version":"自打包内置版"},
+{"name":"q20230902-0114原版内置版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/tvbox/TVBox_q215613905_20230902-0114-最后一版对4.4以下的支持.apk","icon":"https://api.dzzui.com/api/avatar","version":"原版内置版支持4.4"},
+{"name":"q20230902-0114原址原版","url":"https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230902-0114/TVBox_q215613905_20230902-0114.apk","icon":"https://api.dzzui.com/api/avatar","version":"原址原版支持4.4"},
+{"name":"q20230902-0114自打包未签名版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/tvbox/TVBox_q215613905_20230902-0114-自打包-unsigned.apk","icon":"https://api.dzzui.com/api/avatar","version":"自打包未签名版"},
+{"name":"takagen99_20230925-1300","url":"https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230925-1300/TVBox_takagen99_20230925-1300.apk","icon":"https://api.dzzui.com/api/avatar","version":"原址原版20230925-1300"}
 ]},
 
 {"name":"JSON","list":[
-{"name":"玩偶","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
-{"name":"賤賤","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
-{"name":"哔哩","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
-{"name":"alist","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
-{"name":"🐝🛒應用商店","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
-{"name":"农民","url":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json","icon":"https://agit.ai/lengniuge/api/raw/branch/master/MV.png"}
+{"name":"玩偶","url":"https://fm.t4tv.hz.cz/json/wogg.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
+{"name":"賤賤","url":"https://fm.t4tv.hz.cz/json/jianpian.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
+{"name":"哔哩","url":"https://fm.t4tv.hz.cz/json/bili.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
+{"name":"alist","url":"https://fm.t4tv.hz.cz/json/alist.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
+{"name":"🐝🛒應用商店","url":"https://fm.t4tv.hz.cz/json/market.json","icon":"https://api.dzzui.com/api/avatar","version":"蜜蜂json"},
+{"name":"农民","url":"https://fanty.run.goorm.site/ext/nmys.json","icon":"https://agit.ai/lengniuge/api/raw/branch/master/MV.png"}
 ]},
 
-{"name":"软件集合","list":[
+{"name":"软件集合1","list":[
 {"name":"欧歌助手","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/欧歌助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
 {"name":"一键TOken","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/一键tk.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
 {"name":"桌面导航","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/桌面导航.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
@@ -42,7 +48,26 @@
 {"name":"小白文件管理器TV版","url":"http://w6.nxog.top:81/d/动动/软件/软件集合/小白文件管理器TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"}
 ]},
 
-{"name":"本地包软件","list":[
+{"name":"软件集合2","list":[
+{"name":"欧歌助手","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/欧歌助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"一键TOken","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/一键tk.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"桌面导航","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/桌面导航.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"开机起动","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/开机启动.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23tv起动"},
+{"name":"甲壳虫ADB助手","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/甲壳虫ADB助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"阿里云盘TV版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/阿里云盘TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"当贝桌面","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/当贝桌面.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"小米电视助手","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/小米电视助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"八爪鱼遥控TV版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/八爪鱼遥控TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"八爪鱼遥控手机版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/八爪鱼遥控手机版.apk","icon":"https://api.dzzui.com/api/avatar","version":"11-16"},
+{"name":"TVBOX助手","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/TVBOX助手.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"小白文件管理器TV版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/小白文件管理器TV版.apk","icon":"https://api.dzzui.com/api/avatar","version":"10-23"},
+{"name":"TKCK一键获取_1.0.9","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/TKCK一键获取_1.0.9.apk","icon":"https://api.dzzui.com/api/avatar","version":"1.0.9"},
+{"name":"甲壳虫ADB助手v1.28破解版","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/app/main/软件集合/甲壳虫ADB助手v1.28破解版.apk","icon":"https://api.dzzui.com/api/avatar","version":"v1.28破解版"}
+]},
+
+
+
+{"name":"本地包","list":[
 {"name":"香雅情","url":"http://w6.nxog.top:81/d/动动/软件/本地包/XYQTVBox_本地包.zip","icon":"https://api.dzzui.com/api/avatar","version":"11-12-大小3mb-XYQTVBox"},
 {"name":"奇奇本地仓","url":"http://w6.nxog.top:81/d/动动/软件/本地包/奇奇本地仓.zip","icon":"https://api.dzzui.com/api/avatar","version":"11-13-大小17MB-tvboxqq"},
 {"name":"心动本地包","url":"http://w6.nxog.top:81/d/动动/软件/本地包/心动本地包.zip","icon":"https://api.dzzui.com/api/avatar","version":"10-23-大小-87mb-心动本地包"}
