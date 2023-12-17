@@ -500,6 +500,48 @@ HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 
 
+综合,#genre#
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+华文❶台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+华文❷台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+华文❻台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+华文❻台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+
+IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
+IPTV淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
+IPTV淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
+IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
+IPTV淘BABY,http://218.241.192.50:8808/udp/239.3.1.238:8001
+IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
+北京卫视,http://218.241.192.50:8808/udp/239.3.1.241:8000
+北京新闻,http://218.241.192.50:8808/udp/239.3.1.159:8000
+北京影视,http://218.241.192.50:8808/udp/239.3.1.158:8000
+北京财经,http://218.241.192.50:8808/udp/239.3.1.116:8000
+北京生活,http://218.241.192.50:8808/udp/239.3.1.117:8000
+
+CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+广东广播,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+延边TV2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+安阳公共,http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8?
+安阳科教,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8?
+安阳新闻,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8?
+巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+白银综合,http://live.bygd.cn/byzh/sd/live.m3u8
+
 
 
 地方,#genre#
