@@ -452,16 +452,13 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 
 香港,#genre#
 
+凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 凤凰香港,http://113.117.74.22:8081/hls/38/index.m3u8#http://113.117.74.23:8081/hls/38/index.m3u8#http://113.117.74.24:8081/hls/38/index.m3u8
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8#http://113.117.74.23:8081/hls/37/index.m3u8#http://113.117.74.24:8081/hls/37/index.m3u8
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8#http://113.117.74.23:8081/hls/36/index.m3u8#http://113.117.74.24:8081/hls/36/index.m3u8
 星河卫视,http://113.117.74.22:8081/hls/135/index.m3u8#http://113.117.74.23:8081/hls/135/index.m3u8#http://113.117.74.24:8081/hls/135/index.m3u8
 
-翡翠台,http://r.jdshipin.com/62WM7
-J2,http://r.jdshipin.com/Nr5jq
-ViuTV,http://r.jdshipin.com/vSJvl
-香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$1080P
-澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php#http://107.151.203.111:2209/135/hk.php?id=amlh
 
 美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8$720P
 美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8$720P
@@ -504,15 +501,12 @@ HBO signature,http://208.115.225.174:14160
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 华文❶台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 华文❷台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 华文❻台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 华文❻台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
-兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
 IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 IPTV淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
@@ -526,7 +520,8 @@ IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
 北京财经,http://218.241.192.50:8808/udp/239.3.1.116:8000
 北京生活,http://218.241.192.50:8808/udp/239.3.1.117:8000
 
-CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 广东广播,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
