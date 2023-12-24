@@ -20,8 +20,8 @@
         {"key": "应用商店","name":"🛒应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/应用商店.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key": "alist0","name":"🅱️🅰alist","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key": "暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key": "量子","name":"🔃量子(采集)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-        {"key": "非凡","name":"🆖非凡(采集)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+        {"key": "量子","name":"🔃量子(采集)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key": "非凡","name":"🆖非凡(采集)","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "明星MV","name":"🎸明星MV(采集)","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
         {"key": "索尼","name":"🛸索妮(采集)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "新片热播","name":"🆕新片热播(采集)","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
@@ -63,6 +63,7 @@
         {"key":"賤賤","name":"🐝賤賤(🐝)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"alist","name":"🅰alist网盘(🐝)","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
         {"key":"應用商店","name":"🛒應用商店(🐝)","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"欧歌應用商店","name": "🛒欧歌应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"http://127.0.0.1:9978/file/Download/CatVodSpider-main/jar/custom_spider.jar"}, 
 //蜜蜂资源区===================================================================
 
 
