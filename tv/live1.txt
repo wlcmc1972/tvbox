@@ -5,8 +5,6 @@
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 华文❶台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 华文❷台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -440,8 +438,6 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144
 
 
 香港,#genre#
-凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 凤凰香港,http://113.117.74.22:8081/hls/38/index.m3u8#http://113.117.74.23:8081/hls/38/index.m3u8#http://113.117.74.24:8081/hls/38/index.m3u8
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8#http://113.117.74.23:8081/hls/37/index.m3u8#http://113.117.74.24:8081/hls/37/index.m3u8
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8#http://113.117.74.23:8081/hls/36/index.m3u8#http://113.117.74.24:8081/hls/36/index.m3u8
