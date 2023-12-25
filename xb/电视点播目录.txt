@@ -1,0 +1,27 @@
+[
+{"name":"湖北","url":"https://gyssi.link/iptv/chinaiptv/湖北.m3u"},
+
+{"name":"上海","url":"https://gyssi.link/iptv/chinaiptv/上海.m3u"},
+{"name":"云南","url":"https://gyssi.link/iptv/chinaiptv/云南.m3u"},
+{"name":"北京","url":"https://gyssi.link/iptv/chinaiptv/北京.m3u"},
+{"name":"四川","url":"https://gyssi.link/iptv/chinaiptv/四川.m3u"},
+{"name":"天津","url":"https://gyssi.link/iptv/chinaiptv/天津.m3u"},
+{"name":"安徽","url":"https://gyssi.link/iptv/chinaiptv/安徽.m3u"},
+{"name":"山东","url":"https://gyssi.link/iptv/chinaiptv/山东.m3u"},
+{"name":"山西","url":"https://gyssi.link/iptv/chinaiptv/山西.m3u"},
+{"name":"广东","url":"https://gyssi.link/iptv/chinaiptv/广东.m3u"},
+{"name":"广西","url":"https://gyssi.link/iptv/chinaiptv/广西.m3u"},
+{"name":"江苏","url":"https://gyssi.link/iptv/chinaiptv/江苏.m3u"},
+{"name":"河北","url":"https://gyssi.link/iptv/chinaiptv/河北.m3u"},
+{"name":"河南","url":"https://gyssi.link/iptv/chinaiptv/河南.m3u"},
+{"name":"浙江","url":"https://gyssi.link/iptv/chinaiptv/浙江.m3u"},
+{"name":"湖北","url":"https://gyssi.link/iptv/chinaiptv/湖北.m3u"},
+{"name":"湖南","url":"https://gyssi.link/iptv/chinaiptv/湖南.m3u"},
+{"name":"福建","url":"https://gyssi.link/iptv/chinaiptv/福建.m3u"},
+{"name":"辽宁","url":"https://gyssi.link/iptv/chinaiptv/辽宁.m3u"},
+{"name":"重庆","url":"https://gyssi.link/iptv/chinaiptv/重庆.m3u"},
+{"name":"陕西","url":"https://gyssi.link/iptv/chinaiptv/陕西.m3u"},
+{"name":"黑龙江","url":"https://gyssi.link/iptv/chinaiptv/黑龙江.m3u"},
+
+{"name":"","url": ""}
+]
