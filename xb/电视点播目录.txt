@@ -1,27 +1,14 @@
 [
-{"name": "⓿南风",     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
-
-{"name":"❶fmml_dv6.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/fmml_dv6.m3u"},
-{"name":"❷fmml_ipv6.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/fmml_ipv6.m3u"},
-{"name":"❸fmml_v6.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/fmml_v6.m3u"},
-{"name":"❹o_all.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_all.m3u"},
-{"name":"❺o_cn.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_cn.m3u"},
-{"name":"❻o_s_cn.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_s_cn.m3u"},
-{"name":"❼o_s_cn_112114.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_s_cn_112114.m3u"},
-{"name":"❽o_s_cn_cctv.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_s_cn_cctv.m3u"},
-{"name":"❾o_s_cn_cgtn.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_s_cn_cgtn.m3u"},
-{"name":"❿cn.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn.m3u"},
-{"name":"⓫cn_n.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn_n.m3u"},
-{"name":"⓬cn_c.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn_c.m3u"},
-{"name":"⓭cn_p.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn_p.m3u"},
-{"name":"⓮all.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/all.m3u"},
-{"name":"⓯ycl_iptv.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/ycl_iptv.m3u"},
-{"name":"⓰y_g.m3u","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/y_g.m3u"},
-{"name":"⓱福建","url":"https://gyssi.link/iptv/chinaiptv/福建.m3u"},
-{"name":"⓲辽宁","url":"https://fanmingming.com/txt?url=https://gyssi.link/iptv/chinaiptv/辽宁.m3u"},
-{"name":"⓳重庆","url":"https://fanmingming.com/txt?url=https://gyssi.link/iptv/chinaiptv/重庆.m3u"},
-{"name":"⓴陕西","url":"https://fanmingming.com/txt?url=https://gyssi.link/iptv/chinaiptv/陕西.m3u"},
-
+{"name":"⓿电视","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+{"name":"❶电视","url":"https://m3u.ibert.me/fmml_dv6.m3u"},
+{"name":"❷电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
+{"name":"❸电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
+{"name":"❹电视","url":"https://m3u.ibert.me/cn.m3u"},
+{"name":"❺电视","url":"https://m3u.ibert.me/cn_c.m3u"},
+{"name":"❻电视","url":"https://m3u.ibert.me/ycl_iptv.m3u"},
+{"name":"❼电视","url":"https://m3u.ibert.me/y_g.m3u"},
+{"name":"❽电视","url":"https://m3u.ibert.me/all.m3u"},
+{"name":"❾电视","url":"https://m3u.ibert.me/o_all.m3u"},
 
 {"name":"","url": ""}
 ]
