@@ -33,8 +33,6 @@
         {"key": "豆瓣荐片", "name": "🐞豆瓣荐片(CC)", "type": 3, "api": "csp_DouDou", "searchable": 0, "quickSearch": 0, "filterable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
 //测试资源区===================================================================
 
-{"key":"K歌库","name":"🇰歌【选[音轨]切换原音/伴奏】","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"1MV_vod","name":"🇰歌【点[音轨]切原音/伴奏】","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 
 
 //蜜蜂资源区===================================================================
