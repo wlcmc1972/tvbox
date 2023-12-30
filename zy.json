@@ -838,7 +838,7 @@
       {
         "id": 21,
         "name": "自用源",
-        "url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.m3u",
+        "url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u",
         "type": "remote",
         "epg": "https://epg.112114.eu.org/",
         "isActive": true
