@@ -62,9 +62,8 @@
 
 
 "iptv":{"default":21,"data":[
-{"id":21,"name":"自用源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u","type":"remote","epg":"https://epg.112114.eu.org/","isActive":true},
+{"id":1,"name":"自用源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u","type":"remote","epg":"https://epg.112114.eu.org/","isActive":true},
 
-{"id":1,"name":"APTV","url":"https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","type":"remote","isActive":true,"epg":"https://epg.112114.xyz/"},
 {"id":2,"name":"bestv","url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","isActive":true,"type":"remote","epg":"https://epg.112114.xyz/"},
 {"id":3,"name":"肥羊精选","url":"https://telegram-feiyangdigital.v1.mk","isActive":true,"type":"remote","epg":""},
 {"id":4,"name":"B站","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/bi.m3u","isActive":true,"type":"remote","epg":""},
@@ -82,7 +81,9 @@
 {"id":16,"name":"pastebin","url":"https://pastebin.com/raw/ZvKmAfRg","isActive":false,"type":"remote","epg":""},
 {"id":17,"name":"Ray直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","type":"remote","epg":"","isActive":true},
 {"id":19,"name":"IPV6专用","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u","type":"remote","epg":"http://epg.112114.xyz","isActive":true},
-{"id":20,"name":"电视伴音(广播)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","type":"remote","epg":"","isActive":true}
+{"id":20,"name":"电视伴音(广播)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","type":"remote","epg":"","isActive":true},
+{"id":21,"name":"APTV","url":"https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","type":"remote","isActive":true,"epg":"https://epg.112114.xyz/"}
+
 ]},
 
 
