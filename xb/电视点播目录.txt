@@ -1,5 +1,5 @@
 [
-{"name":"⓿电视","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.m3u"},
+{"name":"⓿电视","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"❶电视","url":"https://m3u.ibert.me/fmml_dv6.m3u"},
 {"name":"❷电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
 {"name":"❸电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
