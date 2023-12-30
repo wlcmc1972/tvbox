@@ -12,7 +12,7 @@ iptv:{"default":1,"data":[
 {"id":4,"name":"GHYX","url":"https://telegram-feiyangdigital.v1.mk/ghyx.m3u","isActive":false,"type":"remote","epg":""},
 {"id":5,"name":"SXG-IPV6","url":"https://telegram-feiyangdigital.v1.mk/sxg.m3u","isActive":true,"type":"remote","epg":""},
 {"id":6,"name":"pastebin","url":"https://pastebin.com/raw/ZvKmAfRg","isActive":false,"type":"remote","epg":""},
-{"id":7,"name":"APTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","type":"remote","isActive":true,"epg":"https://epg.112114.xyz/"}
+{"id":7,"name":"APTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","type":"remote","isActive":true,"epg":"https://epg.112114.xyz/"},
 {"id":8,"name":"IPV6专用","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u","type":"remote","epg":"http://epg.112114.xyz","isActive":true},
 {"id":9,"name":"Ray直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","type":"remote","epg":"","isActive":true},
 {"id":10,"name":"4k/8k","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","isActive":true,"type":"remote","epg":""},
@@ -25,7 +25,7 @@ iptv:{"default":1,"data":[
 {"id":17,"name":"虎牙直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u","isActive":true,"type":"remote","epg":""},
 {"id":18,"name":"虎牙一起看","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u","isActive":true,"type":"remote","epg":""},
 {"id":19,"name":"斗鱼一起看","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","isActive":true,"type":"remote","epg":""},
-{"id":20,"name":"斗鱼直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u","isActive":true,"type":"remote","epg":""},
+{"id":20,"name":"斗鱼直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u","isActive":true,"type":"remote","epg":""}
 
 ]},
 
