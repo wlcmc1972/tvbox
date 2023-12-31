@@ -13,6 +13,7 @@
 ]},
 
 {"name":"APP下载","list":[
+{"name":"蜜蜂_電視-java","url":"https://my.t4tv.hz.cz/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v7a"},
 {"name":"蜜蜂_電視-java","url":"https://my.t4tv.hz.cz/apk/release/leanback-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v8a"},
 {"name":"蜜蜂_手機-java","url":"https://my.t4tv.hz.cz/apk/release/mobile-java-arm64_v8a.apk","icon":"https://i.imgs.ovh/2023/10/17/r8lVK.png","version":"v8a"},
 {"name":"蜜蜂_4.x版-java","url":"https://my.t4tv.hz.cz/apk/kitkat/leanback.apk","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png","version":"v7a"},
