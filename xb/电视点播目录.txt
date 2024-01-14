@@ -1,14 +1,10 @@
 [
-{"name":"⓿电视","url":"https://xhdwc.tk/tvlive.txt"},
-{"name":"❶电视","url":"https://m3u.ibert.me/fmml_dv6.m3u"},
-{"name":"❷电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
-{"name":"❸电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
-{"name":"❹电视","url":"https://m3u.ibert.me/cn.m3u"},
-{"name":"❺电视","url":"https://m3u.ibert.me/cn_c.m3u"},
-{"name":"❻电视","url":"https://m3u.ibert.me/ycl_iptv.m3u"},
-{"name":"❼电视","url":"https://m3u.ibert.me/y_g.m3u"},
-{"name":"❽电视","url":"https://m3u.ibert.me/all.m3u"},
-{"name":"❾电视","url":"https://m3u.ibert.me/o_all.m3u"},
+{"name":"⓪电视","url":"https://xhdwc.tk/tvlive.txt"},
+{"name":"①电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
+{"name":"②电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
+{"name":"③电视","url":"https://m3u.ibert.me/cn.m3u"},
+{"name":"④电视","url":"https://m3u.ibert.me/cn_c.m3u"},
+{"name":"⑤电视","url":"https://m3u.ibert.me/ycl_iptv.m3u"},
+{"name":"⑥电视","url":"https://m3u.ibert.me/o_all.m3u"}
 
-{"name":"","url": ""}
 ]
