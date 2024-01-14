@@ -2,9 +2,9 @@
 {"name":"⓪电视","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"①电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
 {"name":"②电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
-{"name":"③电视","url":"https://m3u.ibert.me/cn.m3u"},
-{"name":"④电视","url":"https://m3u.ibert.me/cn_c.m3u"},
-{"name":"⑤电视","url":"https://m3u.ibert.me/ycl_iptv.m3u"},
-{"name":"⑥电视","url":"https://m3u.ibert.me/o_all.m3u"}
+{"name":"③电视","url":"http://tv.nxog.top/m/tv/live.txt"},
+{"name":"④电视","url":"http://39.101.135.137:8081/zb.txt"},
+{"name":"⑤电视","url":"https://iptv.lysvc.cc/tvbox/永久源/wtv.txt"},
+{"name":"⑥电视","url":"http://jiami.guimei.work/a/1703761538.txt"}
 
 ]
