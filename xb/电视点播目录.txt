@@ -1,7 +1,7 @@
 [
 {"name":"⓪电视","url":"https://xhdwc.tk/tvlive.txt"},
-{"name":"①电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
-{"name":"②电视","url":"https://m3u.ibert.me/fmml_v6.m3u"},
+{"name":"①电视","url":"https://agit.ai/66666/mao/raw/branch/master/live20220813.txt"},
+{"name":"②电视","url":"http://124.223.177.85:88/svip/直播挺快.txt"},
 {"name":"③电视","url":"http://tv.nxog.top/m/tv/live.txt"},
 {"name":"④电视","url":"http://39.101.135.137:8081/zb.txt"},
 {"name":"⑤电视","url":"https://iptv.lysvc.cc/tvbox/永久源/wtv.txt"},
