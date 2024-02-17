@@ -1,3 +1,4 @@
+
 ### TVBOX
 
 * 所有资源均来自于网络各路大神无私分享.如有侵权.请联系删除。<所有内容仅供测试学习使用，请勿用于违法用途>
@@ -12,10 +13,9 @@
 
 
 ### tvbox接口
-多线接口  
-https://jihulab.com/xo2/fty/-/raw/main/xl.json
-饭太硬接口  
-https://jihulab.com/xo2/fty/-/raw/main/xo.json
+多线接口：https://jihulab.com/xo2/fty/-/raw/main/xl.json
+
+饭太硬接口 ：https://jihulab.com/xo2/fty/-/raw/main/xo.json
 
 ### 版本
 - [FongMi版](https://github.com/FongMi/TV ) 
@@ -23,5 +23,5 @@ https://jihulab.com/xo2/fty/-/raw/main/xo.json
 - [takagen99版](https://github.com/takagen99/Box) 
 
 ### app下载
-https://www.lanzouv.com/b03j7buub 18  
-https://ufoclz.lanzouy.com/b00zboiwb 2kzz
+https://www.lanzouv.com/b03j7buub （密码18）  
+https://ufoclz.lanzouy.com/b00zboiwb （密码2kzz）
