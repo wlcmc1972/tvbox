@@ -1,5 +1,5 @@
 [
-{"name":"⓪电视","url":"https://xhdwc.tk/tvlive.txt"},
+{"name":"⓪电视","url":"http://8.210.232.168/xclive.txt"},
 
 {"name":"①电视","url":"https://agit.ai/66666/mao/raw/branch/master/live20220813.txt"},
 {"name":"②电视","url":"https://gitcode.net/shi800/dd/-/raw/master/e.txt"},
