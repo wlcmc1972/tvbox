@@ -13,9 +13,14 @@
 
 
 ### tvbox接口
-多线接口：https://jihulab.com/xo2/fty/-/raw/main/xl.json
+自用接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/t1.json   
+自用接口：https://notabug.org/wlcmc1972/test/raw/master/t1.json   
+MusicFree接口：https://notabug.org/wlcmc1972/test/raw/master/plugins.json   
+ZyPlayer接口：https://notabug.org/wlcmc1972/test/raw/master/zy.json   
+多线接口：https://jihulab.com/xo2/fty/-/raw/main/xl.json   
+饭太硬接口 ：https://jihulab.com/xo2/fty/-/raw/main/xo.json   
 
-饭太硬接口 ：https://jihulab.com/xo2/fty/-/raw/main/xo.json
+
 
 ### 版本
 - [FongMi版](https://github.com/FongMi/TV ) 
