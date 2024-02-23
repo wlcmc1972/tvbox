@@ -1,0 +1,46 @@
+{"plugins":[
+
+{"name":"🎸5sing","url":"http://adad23u.appinstall.life/dist/5sing/index.js","version":"0.1.1"},
+{"name":"🎸bilibili","url":"http://adad23u.appinstall.life/dist/bilibili/index.js","version":"0.1.7"},
+{"name":"🎸酷我","url":"http://adad23u.appinstall.life/dist/kuwo/index.js","version":"0.1.6"},
+{"name":"🎸酷狗","url":"http://adad23u.appinstall.life/dist/kugou/index.js","version":"0.1.4"},
+{"name":"🎸猫耳FM","url":"http://adad23u.appinstall.life/dist/maoerfm/index.js","version":"0.1.3"},
+{"name":"🎸网易云","url":"http://adad23u.appinstall.life/dist/netease/index.js","version":"0.2.1"},
+{"name":"🎸千千音乐","url":"http://adad23u.appinstall.life/dist/qianqian/index.js","version":"0.1.2"},
+{"name":"🎸咪咕","url":"http://adad23u.appinstall.life/dist/migu/index.js","version":"0.2.0"},
+{"name":"🎸喜马拉雅","url":"http://adad23u.appinstall.life/dist/xmly/index.js","version":"0.1.4"},
+{"name":"🎸全民K歌","url":"http://adad23u.appinstall.life/dist/qmkg/index.js","version":"0.1.0"},
+{"name":"🎸QQ音乐","url":"http://adad23u.appinstall.life/dist/qq/index.js","version":"0.2.1"},
+
+
+{"name":"QQ音乐","url":"http://adad23u.appinstall.life/dist/qq/index.js","version":"0.1.10"},
+{"name":"酷我","url":"http://adad23u.appinstall.life/dist/kuwo/index.js","version":"0.1.17"},
+{"name":"86109","url":"http://tv.zanlagua.com/86109.js","version":"0.0.0"},
+{"name":"酷狗","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kugou/index.js","version":"0.1.4"},
+{"name":"网易云","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/netease/index.js","version":"0.2.1"},
+{"name":"咪咕","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/migu/index.js","version":"0.2.0"},
+{"name":"hifini","url":"http://tv.zanlagua.com/hifini.js","version":"0.0.0"},
+{"name":"hi-res音乐","url":"http://adad23u.appinstall.life/dist/zz123/index.js","version":"0.0.0"},
+{"name":"audiomack","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js","version":"0.0.0"},
+{"name":"听书_ting13","url":"https://jihulab.com/canxueguhong/music/-/raw/main/%E5%90%AC%E4%B9%A6_ting13.js","version":"0.1.0"},
+{"name":"喜马拉雅","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/xmly/index.js","version":"0.1.4"},
+{"name":"我的FM","url":"http://tv.zanlagua.com/cj.js","version":"1.0.9"},
+{"name":"5sing","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/5sing/index.js","version":"0.1.1"},
+{"name":"快手","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js","version":"0.0.0"},
+{"name":"bilibili","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js","version":"0.1.7"},
+{"name":"猫耳FM","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js","version":"0.1.3"},
+{"name":"千千音乐","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qianqian/index.js","version":"0.1.2"},
+{"name":"全民K歌","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qmkg/index.js","version":"0.1.0"},
+{"name":"音悦台","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/yinyuetai/index.js","version":"0.0.0"},
+{"name":"Youtube","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js","version":"0.0.0"},
+{"name":"咪咕2","url":"http://adad23u.appinstall.life/dist/migu/index.js","version":"0.0.0"},
+{"name":"AT","url":"https://csm.sayqz.com/js/app/app.js","version":"0.0.0"},
+{"name":"QQ 备","url":"https://agit.ai/vale_gtt/MSC_API/raw/branch/master/dist/qq/my_qq_test.js","version":"0.1.10"},
+{"name":"网易云 备","url":"https://agit.ai/vale_gtt/MSC_API/raw/branch/master/dist/netease/my_netease_test.js","version":"0.1.12"},
+{"name":"酷狗 备","url":"https://agit.ai/vale_gtt/MSC_API/raw/branch/master/dist/kugou/my_kugou_test.js","version":"0.1.4"},
+{"name":"酷我 备","url":"https://agit.ai/vale_gtt/MSC_API/raw/branch/master/dist/kuwo/my_kuwo_test.js","version":"0.1.10"}
+
+
+]}
+
+

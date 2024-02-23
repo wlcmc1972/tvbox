@@ -18,6 +18,7 @@
 香雅情接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json   
 MusicFree接口：https://notabug.org/wlcmc1972/test/raw/master/plugins.json   
 ZyPlayer接口：https://notabug.org/wlcmc1972/test/raw/master/zy.json   
+洛雪音乐接口：https://notabug.org/wlcmc1972/test/raw/master/lx.js   
 接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/t1.json   
 接口：https://notabug.org/wlcmc1972/test/raw/master/t1.json   
 
