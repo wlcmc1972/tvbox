@@ -337,18 +337,10 @@ http://1.180.245.195:9901/tsfile/live/0135_1.m3u8
 http://1.180.245.195:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://1.180.245.195:9901/tsfile/live/0142_2.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="综合",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="综合",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="综合",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="综合",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="综合",凤凰中文
-http://php.17186.eu.org/phtv/fhzw.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="综合",凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?
 #EXTINF:-1 tvg-name="香港文旅" tvg-logo="https://live.fanmingming.com/tv/香港文旅.png" group-title="综合",香港文旅
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 #EXTINF:-1 tvg-name="华文❶台" tvg-logo="https://live.fanmingming.com/tv/华文❶台.png" group-title="综合",华文❶台
@@ -371,8 +363,6 @@ http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="综合",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-name="亞洲衛视" tvg-logo="https://live.fanmingming.com/tv/亞洲衛视.png" group-title="综合",亞洲衛视
-https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="综合",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="广西",广西卫视
