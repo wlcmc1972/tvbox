@@ -1,36 +1,34 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="1905" tvg-logo="https://live.fanmingming.com/tv/1905.png" group-title="影视",1905
-http://live.dxms.top/hyyy.php
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="影视",CHC高清电影
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 #EXTINF:-1 tvg-name="女神金60帧" tvg-logo="https://live.fanmingming.com/tv/女神金60帧.png" group-title="影视",女神金60帧
-http://zzy789.xyz/douyu1.php?id=747764#http://mmitv.top/test/douyu.php?id=747764
+http://zzy789.xyz/douyu1.php?id=747764#http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
 #EXTINF:-1 tvg-name="花卷影厅60帧" tvg-logo="https://live.fanmingming.com/tv/花卷影厅60帧.png" group-title="影视",花卷影厅60帧
-http://zzy789.xyz/douyu1.php?id=52787#http://mmitv.top/test/douyu.php?id=52787
+http://zzy789.xyz/douyu1.php?id=52787#http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
 #EXTINF:-1 tvg-name="小宇60帧" tvg-logo="https://live.fanmingming.com/tv/小宇60帧.png" group-title="影视",小宇60帧
-http://zzy789.xyz/douyu1.php?id=323876#http://mmitv.top/test/douyu.php?id=323876
+http://zzy789.xyz/douyu1.php?id=323876#http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
 #EXTINF:-1 tvg-name="贝爷MAX厅" tvg-logo="https://live.fanmingming.com/tv/贝爷MAX厅.png" group-title="影视",贝爷MAX厅
-http://zzy789.xyz/douyu1.php?id=4332#http://mmitv.top/test/douyu.php?id=4332
+http://zzy789.xyz/douyu1.php?id=4332#http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
 #EXTINF:-1 tvg-name="贝爷①厅" tvg-logo="https://live.fanmingming.com/tv/贝爷①厅.png" group-title="影视",贝爷①厅
-http://zzy789.xyz/douyu1.php?id=252802#http://mmitv.top/test/douyu.php?id=252802
+http://zzy789.xyz/douyu1.php?id=252802#http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 #EXTINF:-1 tvg-name="贝爷②厅" tvg-logo="https://live.fanmingming.com/tv/贝爷②厅.png" group-title="影视",贝爷②厅
-http://zzy789.xyz/douyu1.php?id=36337#http://mmitv.top/test/douyu.php?id=36337
+http://zzy789.xyz/douyu1.php?id=36337#http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
 #EXTINF:-1 tvg-name="①华语房" tvg-logo="https://live.fanmingming.com/tv/①华语房.png" group-title="影视",①华语房
-http://zzy789.xyz/douyu1.php?id=85894#http://mmitv.top/test/douyu.php?id=85894
+http://zzy789.xyz/douyu1.php?id=85894#http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 #EXTINF:-1 tvg-name="②星爷房" tvg-logo="https://live.fanmingming.com/tv/②星爷房.png" group-title="影视",②星爷房
-http://zzy789.xyz/douyu1.php?id=122402#http://mmitv.top/test/douyu.php?id=122402
+http://zzy789.xyz/douyu1.php?id=122402#http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 #EXTINF:-1 tvg-name="③粤语房" tvg-logo="https://live.fanmingming.com/tv/③粤语房.png" group-title="影视",③粤语房
-http://zzy789.xyz/douyu1.php?id=6566671#http://mmitv.top/test/douyu.php?id=6566671
+http://zzy789.xyz/douyu1.php?id=6566671#http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 #EXTINF:-1 tvg-name="④欧美房" tvg-logo="https://live.fanmingming.com/tv/④欧美房.png" group-title="影视",④欧美房
-http://zzy789.xyz/douyu1.php?id=20415#http://mmitv.top/test/douyu.php?id=20415
+http://zzy789.xyz/douyu1.php?id=20415#http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 #EXTINF:-1 tvg-name="电视剧①" tvg-logo="https://live.fanmingming.com/tv/电视剧①.png" group-title="影视",电视剧①
-http://zzy789.xyz/douyu1.php?id=2838296#http://mmitv.top/test/douyu.php?id=2838296
+http://zzy789.xyz/douyu1.php?id=2838296#http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296
 #EXTINF:-1 tvg-name="电视剧②" tvg-logo="https://live.fanmingming.com/tv/电视剧②.png" group-title="影视",电视剧②
-http://zzy789.xyz/douyu1.php?id=5062195#http://mmitv.top/test/douyu.php?id=5062195
+http://zzy789.xyz/douyu1.php?id=5062195#http://huanqiuzhibo.cn/manifest/douyu.php?id=5062195
 #EXTINF:-1 tvg-name="音乐台①" tvg-logo="https://live.fanmingming.com/tv/音乐台①.png" group-title="影视",音乐台①
-http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
+http://zzy789.xyz/douyu1.php?id=3186217#http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
 #EXTINF:-1 tvg-name="音乐台②" tvg-logo="https://live.fanmingming.com/tv/音乐台②.png" group-title="影视",音乐台②
-http://zzy789.xyz/douyu1.php?id=3870925#http://mmitv.top/test/douyu.php?id=3870925
+http://zzy789.xyz/douyu1.php?id=3870925#http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://111.12.110.134:6610/PLTV/77777777/224/3221225654/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
