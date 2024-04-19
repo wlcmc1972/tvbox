@@ -1,16 +1,20 @@
 {"plugins":[
 
-{"name":"🎸5sing","url":"http://adad23u.appinstall.life/dist/5sing/index.js","version":"0.1.1"},
-{"name":"🎸bilibili","url":"http://adad23u.appinstall.life/dist/bilibili/index.js","version":"0.1.7"},
-{"name":"🎸酷我","url":"http://adad23u.appinstall.life/dist/kuwo/index.js","version":"0.1.6"},
-{"name":"🎸酷狗","url":"http://adad23u.appinstall.life/dist/kugou/index.js","version":"0.1.4"},
-{"name":"🎸猫耳FM","url":"http://adad23u.appinstall.life/dist/maoerfm/index.js","version":"0.1.3"},
-{"name":"🎸网易云","url":"http://adad23u.appinstall.life/dist/netease/index.js","version":"0.2.1"},
-{"name":"🎸千千音乐","url":"http://adad23u.appinstall.life/dist/qianqian/index.js","version":"0.1.2"},
-{"name":"🎸咪咕","url":"http://adad23u.appinstall.life/dist/migu/index.js","version":"0.2.0"},
-{"name":"🎸喜马拉雅","url":"http://adad23u.appinstall.life/dist/xmly/index.js","version":"0.1.4"},
-{"name":"🎸全民K歌","url":"http://adad23u.appinstall.life/dist/qmkg/index.js","version":"0.1.0"},
-{"name":"🎸QQ音乐","url":"http://adad23u.appinstall.life/dist/qq/index.js","version":"0.2.1"},
+{"name":"udio","https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/udio/index.js","version":"0.0.0"},
+{"name":"suno","url":"https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js","version":"0.0.0"},
+
+
+{"name":"5sing","url":"http://adad23u.appinstall.life/dist/5sing/index.js","version":"0.1.1"},
+{"name":"bilibili","url":"http://adad23u.appinstall.life/dist/bilibili/index.js","version":"0.1.7"},
+{"name":"酷我","url":"http://adad23u.appinstall.life/dist/kuwo/index.js","version":"0.1.6"},
+{"name":"酷狗","url":"http://adad23u.appinstall.life/dist/kugou/index.js","version":"0.1.4"},
+{"name":"猫耳FM","url":"http://adad23u.appinstall.life/dist/maoerfm/index.js","version":"0.1.3"},
+{"name":"网易云","url":"http://adad23u.appinstall.life/dist/netease/index.js","version":"0.2.1"},
+{"name":"千千音乐","url":"http://adad23u.appinstall.life/dist/qianqian/index.js","version":"0.1.2"},
+{"name":"咪咕","url":"http://adad23u.appinstall.life/dist/migu/index.js","version":"0.2.0"},
+{"name":"喜马拉雅","url":"http://adad23u.appinstall.life/dist/xmly/index.js","version":"0.1.4"},
+{"name":"全民K歌","url":"http://adad23u.appinstall.life/dist/qmkg/index.js","version":"0.1.0"},
+{"name":"QQ音乐","url":"http://adad23u.appinstall.life/dist/qq/index.js","version":"0.2.1"},
 
 
 {"name":"QQ音乐","url":"http://adad23u.appinstall.life/dist/qq/index.js","version":"0.1.10"},
