@@ -1,13 +1,13 @@
 [
 {"name":"⓪电视","url":"https://cloud.lxweb.cn/f/1xOpie/feihu6.txt"},
 
-{"name":"①电视","url":"https://m3u.ibert.me/fmml_ipv6.m3u"},
-{"name":"②电视","url":"https://m3u.ibert.me/o_cn.m3u"},
-{"name":"③电视","url":"https://m3u.ibert.me/ycl_iptv.m3u"},
-{"name":"④电视","url":"https://m3u.ibert.me/y_g.m3u"},
-{"name":"⑤电视","url":"https://m3u.ibert.me/cn.m3u"},
-{"name":"⑥电视","url":"https://m3u.ibert.me/cn_c.m3u"},
-{"name":"⑦电视","url":"https://m3u.ibert.me/all.m3u"}
+{"name":"①电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/fmml_ipv6.m3u"},
+{"name":"②电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/o_cn.m3u"},
+{"name":"③电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/ycl_iptv.m3u"},
+{"name":"④电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/y_g.m3u"},
+{"name":"⑤电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn.m3u"},
+{"name":"⑥电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/cn_c.m3u"},
+{"name":"⑦电视","url":"https://fanmingming.com/txt?url=https://m3u.ibert.me/all.m3u"}
 
 ]
 
