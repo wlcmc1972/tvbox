@@ -81,20 +81,20 @@
 
         //蜜蜂资源区===================================================================
         //玩偶调用本地："ext":{"token":"---","filter":"---"}，需要配合jar使用
-        {"key":"蜜蜂應用商店","name":"🛒蜜蜂應用商店(FM)","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        //{"key":"alist","name":"🅰alist网盘(FM)","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"哔哩","name":"🅱️哔哩(FM)","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://fm.t4tv.hz.cz/json/bili.json","type":"帕梅拉#太极拳#广场舞#演唱会","cookie":""},"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"玩偶","name":"📀玩偶(FM)","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","filter":"https://fm.t4tv.hz.cz/json/wogg.json"},"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"盤99","name":"📀盤99(FM)","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"酷狗","name":"🐼酷狗(FM)","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"賤賤","name":"🐝賤賤(FM)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        //{"key":"WebDAV","name":"🐝WebDAV(FM)","type":3,"api":"csp_WebDAV","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/webdav.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"JustLive","name":"🐝JustLive(FM)","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"新6V","name":"🐝新6V(FM)","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"櫻花","name":"🐝櫻花(FM)","type":3,"api":"csp_Ying","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"巴士","name":"🐝巴士(FM)","type":3,"api":"csp_Dm84","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"異界","name":"🐝異界(FM)","type":3,"api":"csp_Ysj","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-        {"key":"豆瓣2","name":"🐝豆瓣荐片(FM)","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/douban.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"蜜蜂應用商店","name":"🆗🛒蜜蜂應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        //{"key":"alist","name":"🆗🅰alist网盘","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/alist.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"哔哩","name":"🆗🅱️哔哩","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://fm.t4tv.hz.cz/json/bili.json","type":"帕梅拉#太极拳#广场舞#演唱会","cookie":""},"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"玩偶","name":"🆗📀玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","filter":"https://fm.t4tv.hz.cz/json/wogg.json"},"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"盤99","name":"🆗📀盤99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"酷狗","name":"🆗🐼酷狗","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"賤賤","name":"🆗賤賤","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/jianpian.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        //{"key":"WebDAV","name":"🆗WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/webdav.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"JustLive","name":"🆗JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"新6V","name":"🆗新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"櫻花","name":"🆗櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"巴士","name":"🆗巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"異界","name":"🆗異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+        {"key":"豆瓣2","name":"🆗豆瓣荐片","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/douban.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
 
 
 
