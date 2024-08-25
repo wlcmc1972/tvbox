@@ -15,11 +15,11 @@
 ### tvbox接口
 多仓接口：https://jihulab.com/xo2/fty/-/raw/main/xl.json   
 饭太硬接口：https://jihulab.com/xo2/fty/-/raw/main/xo.json   
-香雅情接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json   
+香雅情接口：https://mirror.ghproxy.com/https://raw.github.com/xyq254245/xyqonlinerule/main/XYQTVBox.json   
 MusicFree接口：https://notabug.org/wlcmc1972/test/raw/master/plugins.json   
 ZyPlayer接口：https://notabug.org/wlcmc1972/test/raw/master/zy.json   
 洛雪音乐接口：https://notabug.org/wlcmc1972/test/raw/master/lx.js   
-接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/t1.json   
+接口：https://mirror.ghproxy.com/https://raw.github.com/wlcmc1972/tvbox/main/t1.json   
 接口：https://notabug.org/wlcmc1972/test/raw/master/t1.json   
 
 
