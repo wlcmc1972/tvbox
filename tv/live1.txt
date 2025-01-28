@@ -2,24 +2,24 @@
 
 
 央视,#genre#
-CCTV-1综合,http://111.12.110.134:6610/PLTV/77777777/224/3221225654/index.m3u8?hls
-CCTV-2财经,http://111.12.110.134:6610/PLTV/77777777/224/3221225657/index.m3u8?hls
-CCTV-3综艺,http://111.12.110.134:6610/PLTV/77777777/224/3221225713/index.m3u8?hls
-CCTV-4中文国际,http://111.12.110.134:6610/PLTV/77777777/224/3221225761/index.m3u8?hls
-CCTV-5体育,http://111.12.110.134:6610/PLTV/77777777/224/3221225660/index.m3u8?hls
-CCTV-5+体育赛事,http://111.12.110.134:6610/PLTV/77777777/224/3221225712/index.m3u8?hls
-CCTV-6电影,http://111.12.110.134:6610/PLTV/77777777/224/3221225715/index.m3u8?hls
-CCTV-7国防军事,http://111.12.110.134:6610/PLTV/77777777/224/3221225700/index.m3u8?hls
-CCTV-8电视剧,http://111.12.110.134:6610/PLTV/77777777/224/3221225716/index.m3u8?hls
-CCTV-9纪录,http://111.12.110.134:6610/PLTV/77777777/224/3221225663/index.m3u8?hls
-CCTV-10科教,http://111.12.110.134:6610/PLTV/77777777/224/3221225704/index.m3u8?hls
-CCTV-11戏曲,http://111.12.110.134:6610/PLTV/77777777/224/3221225739/index.m3u8?hls
-CCTV-12社会与法,http://111.12.110.134:6610/PLTV/77777777/224/3221225645/index.m3u8?hls
-CCTV-13新闻,http://111.12.110.134:6610/PLTV/77777777/224/3221225742/index.m3u8?hls
-CCTV-14少儿,http://111.12.110.134:6610/PLTV/77777777/224/3221225648/index.m3u8?hls
-CCTV-15音乐,http://111.12.110.134:6610/PLTV/77777777/224/3221225693/index.m3u8?hls
-CCTV-16奥林匹克,http://111.12.110.134:6610/PLTV/77777777/224/3221225937/index.m3u8?hls
-CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/index.m3u8?hls
+CCTV1,http://111.12.110.134:6610/PLTV/77777777/224/3221225654/index.m3u8?hls
+CCTV2,http://111.12.110.134:6610/PLTV/77777777/224/3221225657/index.m3u8?hls
+CCTV3,http://111.12.110.134:6610/PLTV/77777777/224/3221225713/index.m3u8?hls
+CCTV4,http://111.12.110.134:6610/PLTV/77777777/224/3221225761/index.m3u8?hls
+CCTV5,http://111.12.110.134:6610/PLTV/77777777/224/3221225660/index.m3u8?hls
+CCTV5+,http://111.12.110.134:6610/PLTV/77777777/224/3221225712/index.m3u8?hls
+CCTV6,http://111.12.110.134:6610/PLTV/77777777/224/3221225715/index.m3u8?hls
+CCTV7,http://111.12.110.134:6610/PLTV/77777777/224/3221225700/index.m3u8?hls
+CCTV8,http://111.12.110.134:6610/PLTV/77777777/224/3221225716/index.m3u8?hls
+CCTV9,http://111.12.110.134:6610/PLTV/77777777/224/3221225663/index.m3u8?hls
+CCTV10,http://111.12.110.134:6610/PLTV/77777777/224/3221225704/index.m3u8?hls
+CCTV11,http://111.12.110.134:6610/PLTV/77777777/224/3221225739/index.m3u8?hls
+CCTV12,http://111.12.110.134:6610/PLTV/77777777/224/3221225645/index.m3u8?hls
+CCTV13,http://111.12.110.134:6610/PLTV/77777777/224/3221225742/index.m3u8?hls
+CCTV14,http://111.12.110.134:6610/PLTV/77777777/224/3221225648/index.m3u8?hls
+CCTV15,http://111.12.110.134:6610/PLTV/77777777/224/3221225693/index.m3u8?hls
+CCTV16,http://111.12.110.134:6610/PLTV/77777777/224/3221225937/index.m3u8?hls
+CCTV17,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/index.m3u8?hls
 
 
 卫视,#genre#
@@ -55,7 +55,6 @@ CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/inde
 
 广西,#genre#
 柳州新闻,http://111.12.110.134:6610/PLTV/77777777/224/3221226304/index.m3u8?hls
-柳州公共,http://111.12.110.134:6610/PLTV/77777777/224/3221226307/index.m3u8?hls
 柳州科教,http://111.12.110.134:6610/PLTV/77777777/224/3221226287/index.m3u8?hls
 贵港新闻,http://111.12.110.134:6610/PLTV/77777777/224/3221226300/index.m3u8?hls
 贵港科教,http://111.12.110.134:6610/PLTV/77777777/224/3221226303/index.m3u8?hls
@@ -126,7 +125,7 @@ CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/inde
 
 
 地方,#genre#
-电视剧,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+西陕电视,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
@@ -168,6 +167,7 @@ CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/inde
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+新闻,#genre#
 郸城新闻,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
@@ -198,6 +198,10 @@ CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/inde
 原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 镇平新闻,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
 新闻2,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+淇县电视,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+汝州科教,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
+上街电视,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+新乡电视,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
@@ -205,7 +209,3 @@ CCTV-17农业农村,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/inde
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 正阳一套,http://tvpull.dxhmt.cn:9081/tv/11724-1.m3u8
-淇县电视,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-汝州科教,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
-上街电视,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-新乡电视,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
