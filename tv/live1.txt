@@ -145,6 +145,9 @@ CCTV17,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/index.m3u8?hls
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+卢氏综合,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
 永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
@@ -161,6 +164,7 @@ CCTV17,http://111.12.110.134:6610/PLTV/77777777/224/3221225766/index.m3u8?hls
 原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 镇平新闻,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 淇县电视,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
