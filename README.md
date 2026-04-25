@@ -7,7 +7,7 @@
 
 ### 接口
 
-tvbox接口：    https://raw.kkgithub.com/wlcmc1972/tvbox/main/t1.json  
+tvbox接口：    https://ghfast.top/https://raw.github.com/wlcmc1972/tvbox/main/t1.json  
 接口文档： https://docs.qq.com/sheet/DY2FZSnRaSHFWV21E?tab=ome09d
 
 ### 版本
@@ -19,6 +19,3 @@ tvbox接口：    https://raw.kkgithub.com/wlcmc1972/tvbox/main/t1.json
 ### 软件下载
 
 * [会玩科技UC网盘分享](https://drive.uc.cn/s/58542dce116a4?public=1#/list/share/37a25d99b5d949e082733125f8e36b57-0.会玩科技UC分享)
-
-
-
