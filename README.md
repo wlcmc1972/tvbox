@@ -12,9 +12,9 @@ tvbox接口：    https://ghfast.top/https://raw.github.com/wlcmc1972/tvbox/main
 
 ### 版本
 
-* [FongMi版](https://kkgithub.com/FongMi/TV)
-* [q215613905版](https://kkgithub.com/q215613905/TVBoxOS)
-* [takagen99版](https://kkgithub.com/takagen99/Box)
+* [FongMi版](https://github.com/FongMi/TV)
+* [q215613905版](https://github.com/q215613905/TVBoxOS)
+* [takagen99版](https://github.com/takagen99/Box)
 
 ### 软件下载
 
