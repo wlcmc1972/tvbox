@@ -7,8 +7,11 @@
 
 ### 接口
 
-tvbox接口：    https://ghfast.top/https://raw.github.com/wlcmc1972/tvbox/main/t1.json  
-接口文档： https://docs.qq.com/sheet/DY2FZSnRaSHFWV21E?tab=ome09d
+tvbox接口：    https://ghproxy.net/https://raw.github.com/wlcmc1972/tvbox/main/t1.json
+
+tvbox接口：    https://ghfast.top/https://raw.github.com/wlcmc1972/tvbox/main/t1.json
+
+接口文档：      https://docs.qq.com/sheet/DY2FZSnRaSHFWV21E?tab=ome09d
 
 ### 版本
 
